@@ -5,7 +5,7 @@ This is a list of awesome articles about optical flow.
 #### ECCV20 RAFT: Recurrent All Pairs Field Transforms for Optical Flow
 
 [Arxiv](https://arxiv.org/pdf/2003.12039.pdf) | 
-[Github](https://github.com/search?q=RAFT)
+[Github](https://github.com/search?q=princeton-vl/RAFT)
 
 #### CVPR18 PWC-Net: CNNs for Optical Flow Using Pyramid, Warping, and Cost Volume
 
@@ -20,10 +20,19 @@ This is a list of awesome articles about optical flow.
 [Arxiv](https://arxiv.org/abs/1611.00850) |
 [Github](https://github.com/search?q=spynet)
 
-### CVPR17 FlowNet 2.0: Evolution of Optical Flow Estimation with Deep Networks
+#### CVPR17 FlowNet 2.0: Evolution of Optical Flow Estimation with Deep Networks
 [Arxiv](https://arxiv.org/abs/1612.01925) |
 [Github](https://github.com/search?q=flownet2)
+
+#### ICCV15 FlowNet: Learning Optical Flow with Convolutional Networks
+[Arxiv](https://arxiv.org/abs/1504.06852) |
+[Github](https://github.com/search?q=FlowNetPytorch)
 
 #### TPAMI20 A Lightweight Optical Flow CNN - Revisiting Data Fidelity and Regularization
 [Arxiv](https://arxiv.org/abs/1903.07414) |
 [Github](https://github.com/search?q=liteflownet2)
+
+#### CVPR20 MaskFlownet: Asymmetric Feature Matching with Learnable Occlusion Mask
+[Arxiv](https://arxiv.org/abs/2003.10955)
+[Github](https://github.com/search?q=maskflownet)
+
