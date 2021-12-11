@@ -1,7 +1,8 @@
-# awesome-optical-flow WIP
-This is a list of awesome articles about flow.
+# awesome-flow WIP
+This is a list of awesome articles about flow (about optical flow and related work).
 
-## Supervised Optical Flow
+## Optical Flow
+### Supervised Base Model
 #### ECCV20 RAFT: Recurrent All Pairs Field Transforms for Optical Flow
 
 [Arxiv](https://arxiv.org/pdf/2003.12039.pdf) | 
@@ -39,3 +40,13 @@ This is a list of awesome articles about flow.
 #### CVPR19 Iterative Residual Refinement for Joint Optical Flow and Occlusion Estimation
 [Arxiv](https://arxiv.org/pdf/1904.05290.pdf) |
 [Github](https://github.com/search?q=irr+flow)
+
+## Flow Guided Method
+### Flow-based Frame Interpolation
+
+#### CVPR18 Super SloMo: High Quality Estimation of Multiple Intermediate Frames for Video Interpolation
+[Arxiv](https://arxiv.org/abs/1712.00080)
+[Github](https://github.com/search?q=superslomo)
+
+#### ICCV17 Video Frame Synthesis using Deep Voxel Flow
+[Arxiv](https://arxiv.org/abs/1702.02463)
