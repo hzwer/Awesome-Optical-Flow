@@ -1,4 +1,4 @@
-# awesome-flow WIP
+# Awesome-Flow
 This is a list of awesome articles about flow (about optical flow and related work).
 
 ## Optical Flow
