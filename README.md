@@ -51,6 +51,5 @@ Code: [Super-SloMo](https://github.com/avinashpaliwal/Super-SloMo) ![Github star
 
 #### ICCV17 Video Frame Synthesis using Deep Voxel Flow - [Arxiv](https://arxiv.org/abs/1702.02463)
 
-Code: [voxel-flow](https://github.com/liuziwei7/voxel-flow) ![Github stars](https://img.shields.io/github/stars/liuziwei7/voxel-flow)
-
+Code: [voxel-flow](https://github.com/liuziwei7/voxel-flow) ![Github stars](https://img.shields.io/github/stars/liuziwei7/voxel-flow) | [pytorch-voxel-flow](https://github.com/lxx1991/pytorch-voxel-flow) ![Github stars](https://img.shields.io/github/stars/lxx1991/pytorch-voxel-flow)
 ## Low Level Vision
