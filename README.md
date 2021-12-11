@@ -2,7 +2,10 @@
 This is a list of awesome articles about flow (about optical flow and related work).
 
 ## Optical Flow
-### Supervised Model
+### Classical Methods
+#### [IJCAI1981: An iterative image registration technique with an application to stereo vision](http://citeseer.ist.psu.edu/viewdoc/download;jsessionid=C41563DCDDC44CB0E13D6D64D89FF3FD?doi=10.1.1.421.4619&rep=rep1&type=pdf)
+
+### Supervised Models
 #### [ECCV20 RAFT: Recurrent All Pairs Field Transforms for Optical Flow](https://arxiv.org/pdf/2003.12039.pdf)
 Code: [RAFT](https://github.com/princeton-vl/RAFT) ![Github stars](https://img.shields.io/github/stars/princeton-vl/RAFT)
 
@@ -30,7 +33,7 @@ Code: [MaskFlownet](https://github.com/microsoft/MaskFlownet) ![Github stars](ht
 #### [TPAMI20 A Lightweight Optical Flow CNN - Revisiting Data Fidelity and Regularization](https://arxiv.org/abs/1903.07414) 
 Code: [LiteFlowNet2](https://github.com/twhui/LiteFlowNet2) ![Github stars](https://img.shields.io/github/stars/twhui/LiteFlowNet2)
 
-### Unsupervised Model
+### Unsupervised Models
 #### [ECCV20 What Matters in Unsupervised Optical Flow](https://arxiv.org/abs/2006.04902)
 Code: [uflow](https://github.com/google-research/google-research/tree/master/uflow) GoogleResearch
 
