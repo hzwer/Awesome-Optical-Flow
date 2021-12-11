@@ -1,5 +1,5 @@
-# Awesome-Flow
-This is a list of awesome articles about flow (about optical flow and related work).
+# Awesome-OpticalFlow
+This is a list of awesome articles about optical flow and related work.
 
 ## Optical Flow
 ### Classical Methods
