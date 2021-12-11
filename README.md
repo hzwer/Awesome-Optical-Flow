@@ -1,7 +1,7 @@
 # awesome-optical-flow WIP
-This is a list of awesome articles about optical flow.
+This is a list of awesome articles about flow.
 
-## Supervised
+## Supervised Optical Flow
 #### ECCV20 RAFT: Recurrent All Pairs Field Transforms for Optical Flow
 
 [Arxiv](https://arxiv.org/pdf/2003.12039.pdf) | 
@@ -28,11 +28,14 @@ This is a list of awesome articles about optical flow.
 [Arxiv](https://arxiv.org/abs/1504.06852) |
 [Github](https://github.com/search?q=FlowNetPytorch)
 
+#### CVPR20 MaskFlownet: Asymmetric Feature Matching with Learnable Occlusion Mask
+[Arxiv](https://arxiv.org/abs/2003.10955) |
+[Github](https://github.com/search?q=maskflownet)
+
 #### TPAMI20 A Lightweight Optical Flow CNN - Revisiting Data Fidelity and Regularization
 [Arxiv](https://arxiv.org/abs/1903.07414) |
 [Github](https://github.com/search?q=liteflownet2)
 
-#### CVPR20 MaskFlownet: Asymmetric Feature Matching with Learnable Occlusion Mask
-[Arxiv](https://arxiv.org/abs/2003.10955)
-[Github](https://github.com/search?q=maskflownet)
-
+#### CVPR19 Iterative Residual Refinement for Joint Optical Flow and Occlusion Estimation
+[Arxiv](https://arxiv.org/pdf/1904.05290.pdf) |
+[Github](https://github.com/search?q=irr+flow)
