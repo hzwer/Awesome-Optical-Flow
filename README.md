@@ -5,48 +5,60 @@ This is a list of awesome articles about flow (about optical flow and related wo
 ### Supervised Base Model
 #### ECCV20 RAFT: Recurrent All Pairs Field Transforms for Optical Flow
 
-[Arxiv](https://arxiv.org/pdf/2003.12039.pdf) | 
-[Github](https://github.com/search?q=princeton-vl/RAFT)
+[Arxiv](https://arxiv.org/pdf/2003.12039.pdf)
+
+Code: [RAFT](https://github.com/princeton-vl/RAFT) 
 
 #### CVPR18 PWC-Net: CNNs for Optical Flow Using Pyramid, Warping, and Cost Volume
 
-[Arxiv](https://arxiv.org/abs/1709.02371) |
-[Github](https://github.com/search?q=pwcnet)
+[Arxiv](https://arxiv.org/abs/1709.02371)
+
+Code: [PWC-Net](https://github.com/NVlabs/PWC-Net)
 
 #### CVPR18 LiteFlowNet: A Lightweight Convolutional Neural Network for Optical Flow Estimation
-[Arxiv](https://arxiv.org/abs/1805.07036) |
-[Github](https://github.com/search?q=liteflownet)
+[Arxiv](https://arxiv.org/abs/1805.07036)
+
+Code: [LiteFlowNet](https://github.com/twhui/LiteFlowNet)
 
 #### CVPR17 Optical Flow Estimation using a Spatial Pyramid Network
-[Arxiv](https://arxiv.org/abs/1611.00850) |
-[Github](https://github.com/search?q=spynet)
+[Arxiv](https://arxiv.org/abs/1611.00850)
+
+Code: [spynet](https://github.com/anuragranj/spynet)
 
 #### CVPR17 FlowNet 2.0: Evolution of Optical Flow Estimation with Deep Networks
-[Arxiv](https://arxiv.org/abs/1612.01925) |
-[Github](https://github.com/search?q=flownet2)
+[Arxiv](https://arxiv.org/abs/1612.01925) 
+
+Code: [flownet2-pytorch](https://github.com/NVIDIA/flownet2-pytorch)
 
 #### ICCV15 FlowNet: Learning Optical Flow with Convolutional Networks
-[Arxiv](https://arxiv.org/abs/1504.06852) |
-[Github](https://github.com/search?q=FlowNetPytorch)
+[Arxiv](https://arxiv.org/abs/1504.06852) 
+
+Code: [FlowNetPytorch](https://github.com/ClementPinard/FlowNetPytorch)
 
 #### CVPR20 MaskFlownet: Asymmetric Feature Matching with Learnable Occlusion Mask
-[Arxiv](https://arxiv.org/abs/2003.10955) |
-[Github](https://github.com/search?q=maskflownet)
+[Arxiv](https://arxiv.org/abs/2003.10955) 
+
+Code: [MaskFlownet](https://github.com/microsoft/MaskFlownet)
 
 #### TPAMI20 A Lightweight Optical Flow CNN - Revisiting Data Fidelity and Regularization
-[Arxiv](https://arxiv.org/abs/1903.07414) |
-[Github](https://github.com/search?q=liteflownet2)
+[Arxiv](https://arxiv.org/abs/1903.07414) 
+
+Code: [LiteFlowNet2](https://github.com/twhui/LiteFlowNet2)
 
 #### CVPR19 Iterative Residual Refinement for Joint Optical Flow and Occlusion Estimation
-[Arxiv](https://arxiv.org/pdf/1904.05290.pdf) |
-[Github](https://github.com/search?q=irr+flow)
+[Arxiv](https://arxiv.org/pdf/1904.05290.pdf) 
+
+Code: [irr](https://github.com/visinf/irr)
 
 ## Flow Guided Method
 ### Flow-based Frame Interpolation
 
 #### CVPR18 Super SloMo: High Quality Estimation of Multiple Intermediate Frames for Video Interpolation
 [Arxiv](https://arxiv.org/abs/1712.00080)
-[Github](https://github.com/search?q=superslomo)
+
+Code: [Super-SloMo](https://github.com/avinashpaliwal/Super-SloMo)
 
 #### ICCV17 Video Frame Synthesis using Deep Voxel Flow
 [Arxiv](https://arxiv.org/abs/1702.02463)
+
+Code: [voxel-flow](https://github.com/liuziwei7/voxel-flow)
