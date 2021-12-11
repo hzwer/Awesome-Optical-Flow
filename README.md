@@ -19,7 +19,7 @@ Code: [flownet2-pytorch](https://github.com/NVIDIA/flownet2-pytorch) ![Github st
 Code: [LiteFlowNet](https://github.com/twhui/LiteFlowNet) ![Github stars](https://img.shields.io/github/stars/twhui/LiteFlowNet) | [pytorch-liteflownet](https://github.com/sniklaus/pytorch-liteflownet) ![Github stars](https://img.shields.io/github/stars/sniklaus/pytorch-liteflownet)
 
 #### CVPR17 Optical Flow Estimation using a Spatial Pyramid Network - [Arxiv](https://arxiv.org/abs/1611.00850)
-Code: [spynet](https://github.com/anuragranj/spynet) ![Github stars](https://img.shields.io/github/stars/anuragranj/spynet)
+Code: [spynet](https://github.com/anuragranj/spynet) ![Github stars](https://img.shields.io/github/stars/anuragranj/spynet) | [pytorch-spynet](https://github.com/sniklaus/pytorch-spynet) ![Github stars](https://img.shields.io/github/stars/sniklaus/pytorch-spynet)
 
 #### CVPR19 Iterative Residual Refinement for Joint Optical Flow and Occlusion Estimation - [Arxiv](https://arxiv.org/pdf/1904.05290.pdf) 
 Code: [irr](https://github.com/visinf/irr) ![Github stars](https://img.shields.io/github/stars/visinf/irr)
@@ -34,7 +34,7 @@ Code: [LiteFlowNet2](https://github.com/twhui/LiteFlowNet2) ![Github stars](http
 
 ## Scene Flow
 
-## Flow Guided Method
+## Applications
 ### Flow-based Frame Interpolation
 
 #### CVPR18 Super SloMo: High Quality Estimation of Multiple Intermediate Frames for Video Interpolation - [Arxiv](https://arxiv.org/abs/1712.00080)
@@ -46,4 +46,4 @@ Code: [voxel-flow](https://github.com/liuziwei7/voxel-flow) ![Github stars](http
 #### CVPR20 Softmax Splatting for Video Frame Interpolation - [Arxiv](https://arxiv.org/abs/2003.05534)
 Code: [softmax-splatting](https://github.com/sniklaus/softmax-splatting) ![Github stars](https://img.shields.io/github/stars/sniklaus/softmax-splatting)
 
-## Low Level Vision
+### Low Level Vision
