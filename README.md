@@ -37,7 +37,7 @@ Code: [uflow](https://github.com/google-research/google-research/tree/master/ufl
 ## Scene Flow
 
 ## Applications
-### Flow-based Frame Interpolation
+### Video Frame Interpolation
 
 #### CVPR18 Super SloMo: High Quality Estimation of Multiple Intermediate Frames for Video Interpolation - [Arxiv](https://arxiv.org/abs/1712.00080)
 Code: [Super-SloMo](https://github.com/avinashpaliwal/Super-SloMo) ![Github stars](https://img.shields.io/github/stars/avinashpaliwal/Super-SloMo)
