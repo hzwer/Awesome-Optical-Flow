@@ -48,6 +48,9 @@ Code: [uflow](https://github.com/google-research/google-research/tree/master/ufl
 #### [CVPR19 SelFlow: Self-Supervised Learning of Optical Flow](https://arxiv.org/abs/1904.09117)
 Code: [SelFlow](https://github.com/ppliuboy/SelFlow) ![Github stars](https://img.shields.io/github/stars/ppliuboy/SelFlow)
 
+#### [CVPR18 Unsupervised Learning of Dense Depth, Optical Flow and Camera Pose](https://arxiv.org/abs/1803.02276)
+Code: [GeoNet](https://github.com/yzcjtr/GeoNet) ![Github stars](https://img.shields.io/github/stars/yzcjtr/GeoNet)
+
 ## Scene Flow
 
 ## Applications
@@ -61,5 +64,10 @@ Code: [voxel-flow](https://github.com/liuziwei7/voxel-flow) ![Github stars](http
 
 #### [CVPR20 Softmax Splatting for Video Frame Interpolation](https://arxiv.org/abs/2003.05534)
 Code: [softmax-splatting](https://github.com/sniklaus/softmax-splatting) ![Github stars](https://img.shields.io/github/stars/sniklaus/softmax-splatting)
+
+### Video Action Recognition
+
+### [CVPR18 Optical Flow Guided Feature: A Fast and Robust Motion Representation for Video Action Recognition](https://arxiv.org/abs/1711.11152)
+Code: [Optical-Flow-Guided-Feature](https://github.com/kevin-ssy/Optical-Flow-Guided-Feature) ![Github stars](https://img.shields.io/github/stars/kevin-ssy/Optical-Flow-Guided-Feature)
 
 ### Low Level Vision
