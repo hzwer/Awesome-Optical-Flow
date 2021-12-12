@@ -48,7 +48,7 @@ Code: [spynet](https://github.com/anuragranj/spynet) ![Github stars](https://img
 Code: [FlowNetPytorch](https://github.com/ClementPinard/FlowNetPytorch) ![Github stars](https://img.shields.io/github/stars/ClementPinard/FlowNetPytorch)
 
 ### Data Synthesis
-[CVPR21 Learning Optical Flow from Still Images](https://arxiv.org/abs/2104.03965)
+#### [CVPR21 Learning Optical Flow from Still Images](https://arxiv.org/abs/2104.03965)
 Code: [depthstillation](https://github.com/mattpoggi/depthstillation) ![Github stars](https://img.shields.io/github/stars/mattpoggi/depthstillation)
 
 ### Unsupervised Models
@@ -80,6 +80,17 @@ Code: [self-mono-sf](https://github.com/visinf/self-mono-sf) ![Github stars](htt
 ### Video Frame Interpolation
 #### [CVPR20 Softmax Splatting for Video Frame Interpolation](https://arxiv.org/abs/2003.05534)
 Code: [softmax-splatting](https://github.com/sniklaus/softmax-splatting) ![Github stars](https://img.shields.io/github/stars/sniklaus/softmax-splatting)
+
+#### [CVPR20 Adaptive Collaboration of Flows for Video Frame Interpolation](https://arxiv.org/abs/1907.10244)
+Code: [AdaCoF-pytorch](https://github.com/HyeongminLEE/AdaCoF-pytorch) ![Github stars](https://img.shields.io/github/stars/HyeongminLEE/AdaCoF-pytorch)
+
+#### [CVPR20 FeatureFlow: Robust Video Interpolation via Structure-to-Texture Generation](https://openaccess.thecvf.com/content_CVPR_2020/papers/Gui_FeatureFlow_Robust_Video_Interpolation_via_Structure-to-Texture_Generation_CVPR_2020_paper.pdf)
+Code: [FeatureFlow](https://github.com/CM-BF/FeatureFlow) ![Github stars](https://img.shields.io/github/stars/CM-BF/FeatureFlow)
+
+#### [NIPS19 Quadratic Video Interpolation](https://arxiv.org/abs/1911.00627)
+
+#### [CVPR19 Depth-Aware Video Frame Interpolation](https://openaccess.thecvf.com/content_CVPR_2019/papers/Bao_Depth-Aware_Video_Frame_Interpolation_CVPR_2019_paper.pdf)
+Code: [DAIN](https://github.com/baowenbo/DAIN) ![Github stars](https://img.shields.io/github/stars/baowenbo/DAIN)
 
 #### [CVPR18 Super SloMo: High Quality Estimation of Multiple Intermediate Frames for Video Interpolation](https://arxiv.org/abs/1712.00080)
 Code: [Super-SloMo](https://github.com/avinashpaliwal/Super-SloMo) ![Github stars](https://img.shields.io/github/stars/avinashpaliwal/Super-SloMo)
