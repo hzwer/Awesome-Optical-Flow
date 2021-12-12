@@ -52,18 +52,19 @@ Code: [SelFlow](https://github.com/ppliuboy/SelFlow) ![Github stars](https://img
 Code: [GeoNet](https://github.com/yzcjtr/GeoNet) ![Github stars](https://img.shields.io/github/stars/yzcjtr/GeoNet)
 
 ## Scene Flow
+#### [Upgrading Optical Flow to 3D Scene Flow through Optical Expansion](https://openaccess.thecvf.com/content_CVPR_2020/html/Yang_Upgrading_Optical_Flow_to_3D_Scene_Flow_Through_Optical_Expansion_CVPR_2020_paper.html)
+Code: [expansion](https://github.com/gengshan-y/expansion) ![Github stars](https://img.shields.io/github/stars/gengshan-y/expansion)
 
 ## Applications
 ### Video Frame Interpolation
+#### [CVPR20 Softmax Splatting for Video Frame Interpolation](https://arxiv.org/abs/2003.05534)
+Code: [softmax-splatting](https://github.com/sniklaus/softmax-splatting) ![Github stars](https://img.shields.io/github/stars/sniklaus/softmax-splatting)
 
 #### [CVPR18 Super SloMo: High Quality Estimation of Multiple Intermediate Frames for Video Interpolation](https://arxiv.org/abs/1712.00080)
 Code: [Super-SloMo](https://github.com/avinashpaliwal/Super-SloMo) ![Github stars](https://img.shields.io/github/stars/avinashpaliwal/Super-SloMo)
 
 #### [ICCV17 Video Frame Synthesis using Deep Voxel Flow](https://arxiv.org/abs/1702.02463)
 Code: [voxel-flow](https://github.com/liuziwei7/voxel-flow) ![Github stars](https://img.shields.io/github/stars/liuziwei7/voxel-flow) | [pytorch-voxel-flow](https://github.com/lxx1991/pytorch-voxel-flow) ![Github stars](https://img.shields.io/github/stars/lxx1991/pytorch-voxel-flow)
-
-#### [CVPR20 Softmax Splatting for Video Frame Interpolation](https://arxiv.org/abs/2003.05534)
-Code: [softmax-splatting](https://github.com/sniklaus/softmax-splatting) ![Github stars](https://img.shields.io/github/stars/sniklaus/softmax-splatting)
 
 ### Video Action Recognition
 
