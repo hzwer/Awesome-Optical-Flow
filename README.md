@@ -1,4 +1,4 @@
-# Awesome-OpticalFlow
+# Awesome-Optical-Flow
 This is a list of awesome articles about optical flow and related work.
 
 ## Optical Flow
