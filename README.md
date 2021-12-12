@@ -48,6 +48,9 @@ Code: [spynet](https://github.com/anuragranj/spynet) ![Github stars](https://img
 Code: [FlowNetPytorch](https://github.com/ClementPinard/FlowNetPytorch) ![Github stars](https://img.shields.io/github/stars/ClementPinard/FlowNetPytorch)
 
 ### Data Synthesis
+#### [CVPR21 Learning a Better Training Set for Optical Flow](https://arxiv.org/abs/2104.14544)
+[Code coming](https://autoflow-google.github.io/#code)
+
 #### [CVPR21 Learning Optical Flow from Still Images](https://arxiv.org/abs/2104.03965)
 Code: [depthstillation](https://github.com/mattpoggi/depthstillation) ![Github stars](https://img.shields.io/github/stars/mattpoggi/depthstillation)
 
