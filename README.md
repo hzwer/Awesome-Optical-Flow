@@ -52,6 +52,9 @@ Code: [FlowNetPytorch](https://github.com/ClementPinard/FlowNetPytorch) ![Github
 Code: [depthstillation](https://github.com/mattpoggi/depthstillation) ![Github stars](https://img.shields.io/github/stars/mattpoggi/depthstillation)
 
 ### Unsupervised Models
+#### [CVPR21 UPFlow: Upsampling Pyramid for Unsupervised Optical Flow Learning](https://openaccess.thecvf.com/content/CVPR2021/papers/Luo_UPFlow_Upsampling_Pyramid_for_Unsupervised_Optical_Flow_Learning_CVPR_2021_paper.pdf)
+Code: [UPFlow_pytorch](https://github.com/coolbeam/UPFlow_pytorch)
+
 #### [ECCV20 What Matters in Unsupervised Optical Flow](https://arxiv.org/abs/2006.04902)
 Code: [uflow](https://github.com/google-research/google-research/tree/master/uflow) GoogleResearch
 
@@ -112,5 +115,7 @@ Code: [SegFlow](https://github.com/JingchunCheng/SegFlow) ![Github stars](https:
 ### Video Stabilization
 #### [CVPR20 Learning Video Stabilization Using Optical Flow](https://cseweb.ucsd.edu/~ravir/jiyang_cvpr20.pdf)
 Code: [jiyang.fun](https://drive.google.com/file/d/1wQJYFd8TMbCRzhmFfDyBj7oHAGfyr1j6/view)
+
+#### [CVPR14 Spatially Smooth Optical Flow for Video Stabilization](http://www.liushuaicheng.org/CVPR2014/SteadyFlow.pdf)
 
 ### Low Level Vision
