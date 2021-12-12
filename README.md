@@ -20,8 +20,14 @@ Code: [RAFT](https://github.com/princeton-vl/RAFT) ![Github stars](https://img.s
 #### [CVPR20 MaskFlownet: Asymmetric Feature Matching with Learnable Occlusion Mask](https://arxiv.org/abs/2003.10955) 
 Code: [MaskFlownet](https://github.com/microsoft/MaskFlownet) ![Github stars](https://img.shields.io/github/stars/microsoft/MaskFlownet)
 
+#### [CVPR20 ScopeFlow: Dynamic Scene Scoping for Optical Flow](https://arxiv.org/abs/2002.10770)
+Code: [ScopeFlow](https://github.com/avirambh/ScopeFlow) ![Github stars](https://img.shields.io/github/stars/avirambh/ScopeFlow)
+
 #### [TPAMI20 A Lightweight Optical Flow CNN - Revisiting Data Fidelity and Regularization](https://arxiv.org/abs/1903.07414) 
 Code: [LiteFlowNet2](https://github.com/twhui/LiteFlowNet2) ![Github stars](https://img.shields.io/github/stars/twhui/LiteFlowNet2)
+
+#### [NeurIPS19 Volumetric Correspondence Networks for Optical Flow](https://papers.nips.cc/paper/2019/hash/bbf94b34eb32268ada57a3be5062fe7d-Abstract.html)
+Code: [VCN](https://github.com/gengshan-y/VCN) ![Github stars](https://img.shields.io/github/stars/gengshan-y/VCN)
 
 #### [CVPR19 Iterative Residual Refinement for Joint Optical Flow and Occlusion Estimation](https://arxiv.org/pdf/1904.05290.pdf) 
 Code: [irr](https://github.com/visinf/irr) ![Github stars](https://img.shields.io/github/stars/visinf/irr)
@@ -51,6 +57,12 @@ Code: [SelFlow](https://github.com/ppliuboy/SelFlow) ![Github stars](https://img
 #### [CVPR18 Unsupervised Learning of Dense Depth, Optical Flow and Camera Pose](https://arxiv.org/abs/1803.02276)
 Code: [GeoNet](https://github.com/yzcjtr/GeoNet) ![Github stars](https://img.shields.io/github/stars/yzcjtr/GeoNet)
 
+### Special Scene
+#### [CVPR20 Optical Flow in Dense Foggy Scenes using Semi-Supervised Learning](https://arxiv.org/abs/2004.01905)
+
+#### [CVPR20 Optical Flow in the Dark](https://openaccess.thecvf.com/content_CVPR_2020/html/Zheng_Optical_Flow_in_the_Dark_CVPR_2020_paper.html)
+Code: [Optical-Flow-in-the-Dark](https://github.com/mf-zhang/Optical-Flow-in-the-Dark) ![Github stars](https://img.shields.io/github/stars/mf-zhang/Optical-Flow-in-the-Dark)
+
 ## Scene Flow
 #### [Upgrading Optical Flow to 3D Scene Flow through Optical Expansion](https://openaccess.thecvf.com/content_CVPR_2020/html/Yang_Upgrading_Optical_Flow_to_3D_Scene_Flow_Through_Optical_Expansion_CVPR_2020_paper.html)
 Code: [expansion](https://github.com/gengshan-y/expansion) ![Github stars](https://img.shields.io/github/stars/gengshan-y/expansion)
@@ -76,4 +88,9 @@ Code: [Optical-Flow-Guided-Feature](https://github.com/kevin-ssy/Optical-Flow-Gu
 ### Video Object Segmentation
 #### [ICCV17 SegFlow: Joint Learning for Video Object Segmentation and Optical Flow](https://arxiv.org/abs/1709.06750)
 Code: [SegFlow](https://github.com/JingchunCheng/SegFlow) ![Github stars](https://img.shields.io/github/stars/JingchunCheng/SegFlow)
+
+### Video Stabilization
+#### [CVPR20 Learning Video Stabilization Using Optical Flow](https://cseweb.ucsd.edu/~ravir/jiyang_cvpr20.pdf)
+Code: [jiyang.fun](https://drive.google.com/file/d/1wQJYFd8TMbCRzhmFfDyBj7oHAGfyr1j6/view)
+
 ### Low Level Vision
