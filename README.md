@@ -11,6 +11,9 @@ This is a list of awesome articles about optical flow and related work.
 #### [ICCV21 Learning to Estimate Hidden Motions with Global Motion Aggregation](https://arxiv.org/abs/2104.02409)
 Code: [GMA](https://github.com/zacjiang/GMA) ![Github stars](https://img.shields.io/github/stars/zacjiang/GMA)
 
+#### [CVPR21 Learning Optical Flow from a Few Matches](https://arxiv.org/abs/2104.02166)
+Code: [SCV](https://github.com/zacjiang/SCV) ![Github stars](https://img.shields.io/github/stars/zacjiang/SCV)
+
 #### [ECCV20 RAFT: Recurrent All Pairs Field Transforms for Optical Flow](https://arxiv.org/pdf/2003.12039.pdf)
 Code: [RAFT](https://github.com/princeton-vl/RAFT) ![Github stars](https://img.shields.io/github/stars/princeton-vl/RAFT)
 
