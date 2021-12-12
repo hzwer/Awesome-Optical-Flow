@@ -73,4 +73,7 @@ Code: [Optical-Flow-Guided-Feature](https://github.com/kevin-ssy/Optical-Flow-Gu
 
 ### [GCPR18 On the Integration of Optical Flow and Action Recognition](https://arxiv.org/abs/1712.08416)
 
+### Video Object Segmentation
+#### [ICCV17 SegFlow: Joint Learning for Video Object Segmentation and Optical Flow](https://arxiv.org/abs/1709.06750)
+Code: [SegFlow](https://github.com/JingchunCheng/SegFlow) ![Github stars](https://img.shields.io/github/stars/JingchunCheng/SegFlow)
 ### Low Level Vision
