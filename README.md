@@ -45,7 +45,11 @@ Code: [flownet2-pytorch](https://github.com/NVIDIA/flownet2-pytorch) ![Github st
 Code: [spynet](https://github.com/anuragranj/spynet) ![Github stars](https://img.shields.io/github/stars/anuragranj/spynet) | [pytorch-spynet](https://github.com/sniklaus/pytorch-spynet) ![Github stars](https://img.shields.io/github/stars/sniklaus/pytorch-spynet)
 
 #### [ICCV15 FlowNet: Learning Optical Flow with Convolutional Networks](https://arxiv.org/abs/1504.06852) 
-[FlowNetPytorch](https://github.com/ClementPinard/FlowNetPytorch) ![Github stars](https://img.shields.io/github/stars/ClementPinard/FlowNetPytorch)
+Code: [FlowNetPytorch](https://github.com/ClementPinard/FlowNetPytorch) ![Github stars](https://img.shields.io/github/stars/ClementPinard/FlowNetPytorch)
+
+### Data Synthesis
+[CVPR21 Learning Optical Flow from Still Images](https://arxiv.org/abs/2104.03965)
+Code: [depthstillation](https://github.com/mattpoggi/depthstillation) ![Github stars](https://img.shields.io/github/stars/mattpoggi/depthstillation)
 
 ### Unsupervised Models
 #### [ECCV20 What Matters in Unsupervised Optical Flow](https://arxiv.org/abs/2006.04902)
@@ -64,8 +68,11 @@ Code: [GeoNet](https://github.com/yzcjtr/GeoNet) ![Github stars](https://img.shi
 Code: [Optical-Flow-in-the-Dark](https://github.com/mf-zhang/Optical-Flow-in-the-Dark) ![Github stars](https://img.shields.io/github/stars/mf-zhang/Optical-Flow-in-the-Dark)
 
 ## Scene Flow
-#### [Upgrading Optical Flow to 3D Scene Flow through Optical Expansion](https://openaccess.thecvf.com/content_CVPR_2020/html/Yang_Upgrading_Optical_Flow_to_3D_Scene_Flow_Through_Optical_Expansion_CVPR_2020_paper.html)
+#### [CVPR20 Upgrading Optical Flow to 3D Scene Flow through Optical Expansion](https://openaccess.thecvf.com/content_CVPR_2020/html/Yang_Upgrading_Optical_Flow_to_3D_Scene_Flow_Through_Optical_Expansion_CVPR_2020_paper.html)
 Code: [expansion](https://github.com/gengshan-y/expansion) ![Github stars](https://img.shields.io/github/stars/gengshan-y/expansion)
+
+#### [CVPR20 Self-Supervised Monocular Scene Flow Estimation](https://arxiv.org/abs/2004.04143)
+Code: [self-mono-sf](https://github.com/visinf/self-mono-sf) ![Github stars](https://img.shields.io/github/stars/visinf/self-mono-sf)
 
 ## Applications
 ### Video Frame Interpolation
