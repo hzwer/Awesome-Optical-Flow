@@ -33,7 +33,7 @@ Code: [PWC-Net](https://github.com/NVlabs/PWC-Net) ![Github stars](https://img.s
 Code: [LiteFlowNet](https://github.com/twhui/LiteFlowNet) ![Github stars](https://img.shields.io/github/stars/twhui/LiteFlowNet) | [pytorch-liteflownet](https://github.com/sniklaus/pytorch-liteflownet) ![Github stars](https://img.shields.io/github/stars/sniklaus/pytorch-liteflownet)
 
 #### [CVPR17 FlowNet 2.0: Evolution of Optical Flow Estimation with Deep Networks](https://arxiv.org/abs/1612.01925) 
-Code: [flownet2-pytorch](https://github.com/NVIDIA/flownet2-pytorch) ![Github stars](https://img.shields.io/github/stars/NVIDIA/flownet2-pytorch)
+Code: [flownet2-pytorch](https://github.com/NVIDIA/flownet2-pytorch) ![Github stars](https://img.shields.io/github/stars/NVIDIA/flownet2-pytorch) | [flownet2](https://github.com/lmb-freiburg/flownet2) ![Github stars](https://img.shields.io/github/stars/lmb-freiburg/flownet2) | [flownet2-tf](https://github.com/sampepose/flownet2-tf) ![Github stars](https://img.shields.io/github/stars/sampepose/flownet2-tf)
 
 #### [CVPR17 Optical Flow Estimation using a Spatial Pyramid Network](https://arxiv.org/abs/1611.00850)
 Code: [spynet](https://github.com/anuragranj/spynet) ![Github stars](https://img.shields.io/github/stars/anuragranj/spynet) | [pytorch-spynet](https://github.com/sniklaus/pytorch-spynet) ![Github stars](https://img.shields.io/github/stars/sniklaus/pytorch-spynet)
@@ -44,6 +44,9 @@ Code: [spynet](https://github.com/anuragranj/spynet) ![Github stars](https://img
 ### Unsupervised Models
 #### [ECCV20 What Matters in Unsupervised Optical Flow](https://arxiv.org/abs/2006.04902)
 Code: [uflow](https://github.com/google-research/google-research/tree/master/uflow) GoogleResearch
+
+#### [CVPR19 SelFlow: Self-Supervised Learning of Optical Flow](https://arxiv.org/abs/1904.09117)
+Code: [SelFlow](https://github.com/ppliuboy/SelFlow) ![Github stars](https://img.shields.io/github/stars/ppliuboy/SelFlow)
 
 ## Scene Flow
 
