@@ -2,16 +2,6 @@
 This is a list of awesome articles about optical flow and related work. [Click here to read in full screen.](https://github.com/hzwer/Awesome-Optical-Flow/blob/main/README.md)
 
 ## Optical Flow
-### Classical Methods
-| Time | Paper | Repo |
-| -------- | -------- | -------- |
-|IJCAI1981|[An iterative image registration technique with an application to stereo vision](http://citeseer.ist.psu.edu/viewdoc/download;jsessionid=C41563DCDDC44CB0E13D6D64D89FF3FD?doi=10.1.1.421.4619&rep=rep1&type=pdf)||
-|AI1981|[Determining optical flow](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.66.562&rep=rep1&type=pdf)|
-|TPAMI10|[Motion Detail Preserving Optical Flow Estimation](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.221.896&rep=rep1&type=pdf)
-|CVPR10|[Secrets of Optical Flow Estimation and Their Principles](https://users.soe.ucsc.edu/~pang/200/f18/papers/2018/05539939.pdf)
-|ICCV13|[DeepFlow: Large Displacement Optical Flow with Deep Matching](https://openaccess.thecvf.com/content_iccv_2013/papers/Weinzaepfel_DeepFlow_Large_Displacement_2013_ICCV_paper.pdf)|[Project](https://thoth.inrialpes.fr/src/deepflow/)
-|ECCV14|[Optical Flow Estimation with Channel Constancy](https://link.springer.com/content/pdf/10.1007/978-3-319-10590-1_28.pdf)
-|CVPR17|[S2F: Slow-To-Fast Interpolator Flow](https://openaccess.thecvf.com/content_cvpr_2017/papers/Yang_S2F_Slow-To-Fast_Interpolator_CVPR_2017_paper.pdf)
 
 ### Supervised Models
 | Time | Paper | Repo |
@@ -47,6 +37,28 @@ This is a list of awesome articles about optical flow and related work. [Click h
 |AAAI19|[DDFlow: Learning Optical Flow with Unlabeled Data Distillation](https://arxiv.org/abs/1902.09145)|[DDFlow](https://github.com/ppliuboy/DDFlow) ![Github stars](https://img.shields.io/github/stars/ppliuboy/DDFlow)
 |CVPR19|[SelFlow: Self-Supervised Learning of Optical Flow](https://arxiv.org/abs/1904.09117)|[SelFlow](https://github.com/ppliuboy/SelFlow) ![Github stars](https://img.shields.io/github/stars/ppliuboy/SelFlow)
 |CVPR18|[Unsupervised Learning of Dense Depth, Optical Flow and Camera Pose](https://arxiv.org/abs/1803.02276)|[GeoNet](https://github.com/yzcjtr/GeoNet) ![Github stars](https://img.shields.io/github/stars/yzcjtr/GeoNet)
+
+### Classical Methods
+| Time | Paper | Repo |
+| -------- | -------- | -------- |
+|IJCAI1981|[An iterative image registration technique with an application to stereo vision](http://citeseer.ist.psu.edu/viewdoc/download;jsessionid=C41563DCDDC44CB0E13D6D64D89FF3FD?doi=10.1.1.421.4619&rep=rep1&type=pdf)||
+|AI1981|[Determining optical flow](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.66.562&rep=rep1&type=pdf)|
+|TPAMI10|[Motion Detail Preserving Optical Flow Estimation](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.221.896&rep=rep1&type=pdf)
+|CVPR10|[Secrets of Optical Flow Estimation and Their Principles](https://users.soe.ucsc.edu/~pang/200/f18/papers/2018/05539939.pdf)
+|ICCV13|[DeepFlow: Large Displacement Optical Flow with Deep Matching](https://openaccess.thecvf.com/content_iccv_2013/papers/Weinzaepfel_DeepFlow_Large_Displacement_2013_ICCV_paper.pdf)|[Project](https://thoth.inrialpes.fr/src/deepflow/)
+|ECCV14|[Optical Flow Estimation with Channel Constancy](https://link.springer.com/content/pdf/10.1007/978-3-319-10590-1_28.pdf)
+|CVPR17|[S2F: Slow-To-Fast Interpolator Flow](https://openaccess.thecvf.com/content_cvpr_2017/papers/Yang_S2F_Slow-To-Fast_Interpolator_CVPR_2017_paper.pdf)
+
+### Classical Methods
+| Time | Paper | Repo |
+| -------- | -------- | -------- |
+|IJCAI1981|[An iterative image registration technique with an application to stereo vision](http://citeseer.ist.psu.edu/viewdoc/download;jsessionid=C41563DCDDC44CB0E13D6D64D89FF3FD?doi=10.1.1.421.4619&rep=rep1&type=pdf)||
+|AI1981|[Determining optical flow](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.66.562&rep=rep1&type=pdf)|
+|TPAMI10|[Motion Detail Preserving Optical Flow Estimation](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.221.896&rep=rep1&type=pdf)
+|CVPR10|[Secrets of Optical Flow Estimation and Their Principles](https://users.soe.ucsc.edu/~pang/200/f18/papers/2018/05539939.pdf)
+|ICCV13|[DeepFlow: Large Displacement Optical Flow with Deep Matching](https://openaccess.thecvf.com/content_iccv_2013/papers/Weinzaepfel_DeepFlow_Large_Displacement_2013_ICCV_paper.pdf)|[Project](https://thoth.inrialpes.fr/src/deepflow/)
+|ECCV14|[Optical Flow Estimation with Channel Constancy](https://link.springer.com/content/pdf/10.1007/978-3-319-10590-1_28.pdf)
+|CVPR17|[S2F: Slow-To-Fast Interpolator Flow](https://openaccess.thecvf.com/content_cvpr_2017/papers/Yang_S2F_Slow-To-Fast_Interpolator_CVPR_2017_paper.pdf)
 
 ### Special Scene
 | Time | Paper | Repo |
