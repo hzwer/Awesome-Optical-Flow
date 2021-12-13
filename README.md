@@ -50,6 +50,12 @@ This is a list of awesome articles about optical flow and related work. [Click h
 |ECCV14|[Optical Flow Estimation with Channel Constancy](https://link.springer.com/content/pdf/10.1007/978-3-319-10590-1_28.pdf)
 |CVPR17|[S2F: Slow-To-Fast Interpolator Flow](https://openaccess.thecvf.com/content_cvpr_2017/papers/Yang_S2F_Slow-To-Fast_Interpolator_CVPR_2017_paper.pdf)
 
+### Joint Learning
+| Time | Paper | Repo |
+| -------- | -------- | -------- |
+|CVPR21|[EffiScene: Efficient Per-Pixel Rigidity Inference for Unsupervised Joint Learning of Optical Flow, Depth, Camera Pose and Motion Segmentation](https://openaccess.thecvf.com/content/CVPR2021/html/Jiao_EffiScene_Efficient_Per-Pixel_Rigidity_Inference_for_Unsupervised_Joint_Learning_of_CVPR_2021_paper.html)
+|CVPR21|[Feature-Level Collaboration: Joint Unsupervised Learning of Optical Flow, Stereo Depth and Camera Motion](https://openaccess.thecvf.com/content/CVPR2021/html/Chi_Feature-Level_Collaboration_Joint_Unsupervised_Learning_of_Optical_Flow_Stereo_Depth_CVPR_2021_paper.html)
+
 ### Classical Methods
 | Time | Paper | Repo |
 | -------- | -------- | -------- |
@@ -120,4 +126,10 @@ This is a list of awesome articles about optical flow and related work. [Click h
 | -------- | -------- | -------- |
 |ICCV21|[Deep Reparametrization of Multi-Frame Super-Resolution and Denoising](https://arxiv.org/abs/2108.08286)|[deep-rep](https://github.com/goutamgmb/deep-rep) ![Github stars](https://img.shields.io/github/stars/goutamgmb/deep-rep)
 |CVPR21|[Deep Burst Super-Resolution](https://arxiv.org/abs/2101.10997)|[deep-burst-sr](https://github.com/goutamgmb/deep-burst-sr) ![Github stars](https://img.shields.io/github/stars/goutamgmb/deep-burst-sr)
+|CVPR20|[Efficient Dynamic Scene Deblurring Using Spatially Variant Deconvolution Network With Optical Flow Guided Training](https://openaccess.thecvf.com/content_CVPR_2020/html/Yuan_Efficient_Dynamic_Scene_Deblurring_Using_Spatially_Variant_Deconvolution_Network_With_CVPR_2020_paper.html)|
 |TIP20|[Deep video super-resolution using HR optical flow estimation](https://arxiv.org/abs/2001.02129)|[SOF-VSR](https://github.com/The-Learning-And-Vision-Atelier-LAVA/SOF-VSR) ![Github stars](https://img.shields.io/github/stars/The-Learning-And-Vision-Atelier-LAVA/SOF-VSR)
+
+### SLAM
+| Time | Paper | Repo |
+| -------- | -------- | -------- |
+|CVPR20|[VOLDOR: Visual Odometry From Log-Logistic Dense Optical Flow Residuals](https://openaccess.thecvf.com/content_CVPR_2020/html/Min_VOLDOR_Visual_Odometry_From_Log-Logistic_Dense_Optical_Flow_Residuals_CVPR_2020_paper.html)|[VOLDOR](https://github.com/htkseason/VOLDOR) ![Github stars](https://img.shields.io/github/stars/htkseason/VOLDOR)
