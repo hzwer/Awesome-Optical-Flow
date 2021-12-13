@@ -24,7 +24,7 @@ This is a list of awesome articles about optical flow and related work. [Click h
 ### Data Synthesis
 | Time | Paper | Repo |
 | -------- | -------- | -------- |
-|CVPR21|[Learning a Better Training Set for Optical Flow](https://arxiv.org/abs/2104.14544)|[Code coming](https://autoflow-google.github.io/#code)
+|CVPR21|[AutoFlow: Learning a Better Training Set for Optical Flow](https://arxiv.org/abs/2104.14544)|[Code coming](https://autoflow-google.github.io/#code)
 |CVPR21|[Learning Optical Flow from Still Images](https://arxiv.org/abs/2104.03965)|[depthstillation](https://github.com/mattpoggi/depthstillation) ![Github stars](https://img.shields.io/github/stars/mattpoggi/depthstillation)
 
 ### Unsupervised Models
@@ -76,6 +76,7 @@ This is a list of awesome articles about optical flow and related work. [Click h
 | Time | Paper | Repo |
 | -------- | -------- | -------- |
 |ICCV21|[GyroFlow: Gyroscope-Guided Unsupervised Optical Flow Learning](https://arxiv.org/abs/2103.13725)|[GyroFlow](https://github.com/megvii-research/GyroFlow) ![Github stars](https://img.shields.io/github/stars/megvii-research/GyroFlow)
+
 ## Scene Flow
 | Time | Paper | Repo |
 | -------- | -------- | -------- |
