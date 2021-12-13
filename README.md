@@ -8,6 +8,8 @@ This is a list of awesome articles about optical flow and related work. [Click h
 |IJCAI1981|[An iterative image registration technique with an application to stereo vision](http://citeseer.ist.psu.edu/viewdoc/download;jsessionid=C41563DCDDC44CB0E13D6D64D89FF3FD?doi=10.1.1.421.4619&rep=rep1&type=pdf)||
 |AI1981|[Determining optical flow](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.66.562&rep=rep1&type=pdf)|
 |TPAMI10|[Motion Detail Preserving Optical Flow Estimation](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.221.896&rep=rep1&type=pdf)
+|CVPR10|[Secrets of Optical Flow Estimation and Their Principles](https://users.soe.ucsc.edu/~pang/200/f18/papers/2018/05539939.pdf)
+[ICCV13][DeepFlow: Large Displacement Optical Flow with Deep Matching](https://openaccess.thecvf.com/content_iccv_2013/papers/Weinzaepfel_DeepFlow_Large_Displacement_2013_ICCV_paper.pdf)|[Project](https://thoth.inrialpes.fr/src/deepflow/)
 |ECCV14|[Optical Flow Estimation with Channel Constancy](https://link.springer.com/content/pdf/10.1007/978-3-319-10590-1_28.pdf)
 |CVPR17|[S2F: Slow-To-Fast Interpolator Flow](https://openaccess.thecvf.com/content_cvpr_2017/papers/Yang_S2F_Slow-To-Fast_Interpolator_CVPR_2017_paper.pdf)
 
@@ -51,6 +53,7 @@ This is a list of awesome articles about optical flow and related work. [Click h
 | -------- | -------- | -------- |
 |CVPR20|[Optical Flow in Dense Foggy Scenes using Semi-Supervised Learning](https://arxiv.org/abs/2004.01905)
 |CVPR20|[Optical Flow in the Dark](https://openaccess.thecvf.com/content_CVPR_2020/html/Zheng_Optical_Flow_in_the_Dark_CVPR_2020_paper.html)|[Optical-Flow-in-the-Dark](https://github.com/mf-zhang/Optical-Flow-in-the-Dark) ![Github stars](https://img.shields.io/github/stars/mf-zhang/Optical-Flow-in-the-Dark)
+|ICCV19|[RainFlow: Optical Flow under Rain Streaks and Rain Veiling Effect](https://openaccess.thecvf.com/content_ICCV_2019/html/Li_RainFlow_Optical_Flow_Under_Rain_Streaks_and_Rain_Veiling_Effect_ICCV_2019_paper.html)
 |CVPR18|[Robust Optical Flow Estimation in Rainy Scenes](https://arxiv.org/abs/1704.05239)
 
 ### Special Device
