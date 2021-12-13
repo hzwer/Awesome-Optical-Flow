@@ -84,6 +84,9 @@ Code: [Optical-Flow-in-the-Dark](https://github.com/mf-zhang/Optical-Flow-in-the
 ## Scene Flow
 #### [CVPR21 RAFT-3D: Scene Flow Using Rigid-Motion Embeddings](https://arxiv.org/pdf/2012.00726.pdf)
 
+#### [CVPR21 Just Go With the Flow: Self-Supervised Scene Flow Estimation](https://arxiv.org/pdf/1912.00497.pdf)
+Code: [Just-Go-with-the-Flow-Self-Supervised-Scene-Flow-Estimation](https://github.com/HimangiM/Just-Go-with-the-Flow-Self-Supervised-Scene-Flow-Estimation) ![Github stars](https://img.shields.io/github/stars/HimangiM/Just-Go-with-the-Flow-Self-Supervised-Scene-Flow-Estimation)
+
 #### [CVPR20 Upgrading Optical Flow to 3D Scene Flow through Optical Expansion](https://openaccess.thecvf.com/content_CVPR_2020/html/Yang_Upgrading_Optical_Flow_to_3D_Scene_Flow_Through_Optical_Expansion_CVPR_2020_paper.html)
 Code: [expansion](https://github.com/gengshan-y/expansion) ![Github stars](https://img.shields.io/github/stars/gengshan-y/expansion)
 
