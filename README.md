@@ -84,6 +84,12 @@ Code: [uflow](https://github.com/google-research/google-research/tree/master/ufl
 
 Code: [ARFlow](https://github.com/lliuz/ARFlow) ![Github stars](https://img.shields.io/github/stars/lliuz/ARFlow)
 
+[CVPR20 Flow2Stereo: Effective Self-Supervised Learning of Optical Flow and Stereo Matching](https://arxiv.org/abs/2004.02138)
+
+[AAAI19 DDFlow: Learning Optical Flow with Unlabeled Data Distillation](https://arxiv.org/abs/1902.09145)
+
+Code: [DDFlow](https://github.com/ppliuboy/DDFlow) ![Github stars](https://img.shields.io/github/stars/ppliuboy/DDFlow)
+
 [CVPR19 SelFlow: Self-Supervised Learning of Optical Flow](https://arxiv.org/abs/1904.09117)
 
 Code: [SelFlow](https://github.com/ppliuboy/SelFlow) ![Github stars](https://img.shields.io/github/stars/ppliuboy/SelFlow)
