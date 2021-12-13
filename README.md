@@ -107,6 +107,13 @@ Code: [Optical-Flow-in-the-Dark](https://github.com/mf-zhang/Optical-Flow-in-the
 
 [CVPR18 Robust Optical Flow Estimation in Rainy Scenes](https://arxiv.org/abs/1704.05239)
 
+### Special Device
+
+**Event Camera** [event-based_vision_resources](https://github.com/uzh-rpg/event-based_vision_resources#optical-flow-estimation) ![Github stars](https://img.shields.io/github/stars/uzh-rpg/event-based_vision_resources#optical-flow-estimation)
+
+[ICCV21 GyroFlow: Gyroscope-Guided Unsupervised Optical Flow Learning](https://arxiv.org/abs/2103.13725)
+
+Code: [GyroFlow](https://github.com/megvii-research/GyroFlow) ![Github stars](https://img.shields.io/github/stars/megvii-research/GyroFlow)
 ## Scene Flow
 [CVPR21 RAFT-3D: Scene Flow Using Rigid-Motion Embeddings](https://arxiv.org/pdf/2012.00726.pdf)
 
