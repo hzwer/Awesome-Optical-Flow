@@ -146,11 +146,11 @@ Code: [voxel-flow](https://github.com/liuziwei7/voxel-flow) ![Github stars](http
 
 ### Video Action Recognition
 
-### [CVPR18 Optical Flow Guided Feature: A Fast and Robust Motion Representation for Video Action Recognition](https://arxiv.org/abs/1711.11152)
+[CVPR18 Optical Flow Guided Feature: A Fast and Robust Motion Representation for Video Action Recognition](https://arxiv.org/abs/1711.11152)
 
 Code: [Optical-Flow-Guided-Feature](https://github.com/kevin-ssy/Optical-Flow-Guided-Feature) ![Github stars](https://img.shields.io/github/stars/kevin-ssy/Optical-Flow-Guided-Feature)
 
-### [GCPR18 On the Integration of Optical Flow and Action Recognition](https://arxiv.org/abs/1712.08416)
+[GCPR18 On the Integration of Optical Flow and Action Recognition](https://arxiv.org/abs/1712.08416)
 
 ### Video Object Segmentation
 
