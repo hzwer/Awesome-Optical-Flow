@@ -1,5 +1,5 @@
 # Awesome-Optical-Flow
-This is a list of awesome articles about optical flow and related work.
+This is a list of awesome articles about optical flow and related work. [Click here to read in full screen.](https://github.com/hzwer/Awesome-Optical-Flow/blob/main/README.md)
 
 ## Optical Flow
 ### Classical Methods
@@ -38,7 +38,7 @@ This is a list of awesome articles about optical flow and related work.
 |CVPR21|[UPFlow: Upsampling Pyramid for Unsupervised Optical Flow Learning](https://openaccess.thecvf.com/content/CVPR2021/papers/Luo_UPFlow_Upsampling_Pyramid_for_Unsupervised_Optical_Flow_Learning_CVPR_2021_paper.pdf)|[UPFlow_pytorch](https://github.com/coolbeam/UPFlow_pytorch)
 |ECCV20|[What Matters in Unsupervised Optical Flow](https://arxiv.org/abs/2006.04902)|[uflow](https://github.com/google-research/google-research/tree/master/uflow) GoogleResearch
 |CVPR20|[Learning by Analogy: Reliable Supervision from Transformations for Unsupervised Optical Flow Estimation](https://arxiv.org/abs/2003.13045)|[ARFlow](https://github.com/lliuz/ARFlow) ![Github stars](https://img.shields.io/github/stars/lliuz/ARFlow)
-|CVPR20 Flow2Stereo: Effective Self-Supervised Learning of Optical Flow and Stereo Matching](https://arxiv.org/abs/2004.02138)
+|CVPR20|[Flow2Stereo: Effective Self-Supervised Learning of Optical Flow and Stereo Matching](https://arxiv.org/abs/2004.02138)
 |AAAI19|[DDFlow: Learning Optical Flow with Unlabeled Data Distillation](https://arxiv.org/abs/1902.09145)|[DDFlow](https://github.com/ppliuboy/DDFlow) ![Github stars](https://img.shields.io/github/stars/ppliuboy/DDFlow)
 |CVPR19|[SelFlow: Self-Supervised Learning of Optical Flow](https://arxiv.org/abs/1904.09117)|[SelFlow](https://github.com/ppliuboy/SelFlow) ![Github stars](https://img.shields.io/github/stars/ppliuboy/SelFlow)
 |CVPR18|[Unsupervised Learning of Dense Depth, Optical Flow and Camera Pose](https://arxiv.org/abs/1803.02276)|[GeoNet](https://github.com/yzcjtr/GeoNet) ![Github stars](https://img.shields.io/github/stars/yzcjtr/GeoNet)
