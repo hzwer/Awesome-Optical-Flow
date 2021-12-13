@@ -5,8 +5,11 @@ This is a list of awesome articles about optical flow and related work. [Click h
 ### Classical Methods
 | Time | Paper | Repo |
 | -------- | -------- | -------- |
-|IJCAI1981|[(Lucas-Kanade method) An iterative image registration technique with an application to stereo vision](http://citeseer.ist.psu.edu/viewdoc/download;jsessionid=C41563DCDDC44CB0E13D6D64D89FF3FD?doi=10.1.1.421.4619&rep=rep1&type=pdf)||
-|AI1981|[(Horn-Schunck method) Determining optical flow](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.66.562&rep=rep1&type=pdf)|
+|IJCAI1981|[An iterative image registration technique with an application to stereo vision](http://citeseer.ist.psu.edu/viewdoc/download;jsessionid=C41563DCDDC44CB0E13D6D64D89FF3FD?doi=10.1.1.421.4619&rep=rep1&type=pdf)||
+|AI1981|[Determining optical flow](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.66.562&rep=rep1&type=pdf)|
+|TPAMI10|[Motion Detail Preserving Optical Flow Estimation](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.221.896&rep=rep1&type=pdf)
+|ECCV14|[Optical Flow Estimation with Channel Constancy](https://link.springer.com/content/pdf/10.1007/978-3-319-10590-1_28.pdf)
+|CVPR17|[S2F: Slow-To-Fast Interpolator Flow](https://openaccess.thecvf.com/content_cvpr_2017/papers/Yang_S2F_Slow-To-Fast_Interpolator_CVPR_2017_paper.pdf)
 
 ### Supervised Models
 | Time | Paper | Repo |
