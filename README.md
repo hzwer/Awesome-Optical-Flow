@@ -8,7 +8,7 @@ This is a list of awesome articles about optical flow and related work. [Click h
 | -------- | -------- | -------- |
 |ICCV21|[Learning to Estimate Hidden Motions with Global Motion Aggregation](https://arxiv.org/abs/2104.02409)|[GMA](https://github.com/zacjiang/GMA) ![Github stars](https://img.shields.io/github/stars/zacjiang/GMA)|
 |CVPR21|[Learning Optical Flow from a Few Matches](https://arxiv.org/abs/2104.02166)|[SCV](https://github.com/zacjiang/SCV) ![Github stars](https://img.shields.io/github/stars/zacjiang/SCV)|
-|TIP21|[https://ieeexplore.ieee.org/document/9459444](https://ieeexplore.ieee.org/document/9459444)
+|TIP21|[Detail Preserving Coarse-to-Fine Matching for Stereo Matching and Optical Flow](https://ieeexplore.ieee.org/document/9459444)
 |ECCV20|[RAFT: Recurrent All Pairs Field Transforms for Optical Flow](https://arxiv.org/pdf/2003.12039.pdf)|[RAFT](https://github.com/princeton-vl/RAFT) ![Github stars](https://img.shields.io/github/stars/princeton-vl/RAFT)
 |CVPR20|[MaskFlownet: Asymmetric Feature Matching with Learnable Occlusion Mask](https://arxiv.org/abs/2003.10955)|[MaskFlownet](https://github.com/microsoft/MaskFlownet) ![Github stars](https://img.shields.io/github/stars/microsoft/MaskFlownet)
 |CVPR20|[ScopeFlow: Dynamic Scene Scoping for Optical Flow](https://arxiv.org/abs/2002.10770)|[ScopeFlow](https://github.com/avirambh/ScopeFlow) ![Github stars](https://img.shields.io/github/stars/avirambh/ScopeFlow)
