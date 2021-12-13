@@ -8,6 +8,7 @@ This is a list of awesome articles about optical flow and related work. [Click h
 | -------- | -------- | -------- |
 |ICCV21|[Learning to Estimate Hidden Motions with Global Motion Aggregation](https://arxiv.org/abs/2104.02409)|[GMA](https://github.com/zacjiang/GMA) ![Github stars](https://img.shields.io/github/stars/zacjiang/GMA)|
 |CVPR21|[Learning Optical Flow from a Few Matches](https://arxiv.org/abs/2104.02166)|[SCV](https://github.com/zacjiang/SCV) ![Github stars](https://img.shields.io/github/stars/zacjiang/SCV)|
+|TIP21|[https://ieeexplore.ieee.org/document/9459444](https://ieeexplore.ieee.org/document/9459444)
 |ECCV20|[RAFT: Recurrent All Pairs Field Transforms for Optical Flow](https://arxiv.org/pdf/2003.12039.pdf)|[RAFT](https://github.com/princeton-vl/RAFT) ![Github stars](https://img.shields.io/github/stars/princeton-vl/RAFT)
 |CVPR20|[MaskFlownet: Asymmetric Feature Matching with Learnable Occlusion Mask](https://arxiv.org/abs/2003.10955)|[MaskFlownet](https://github.com/microsoft/MaskFlownet) ![Github stars](https://img.shields.io/github/stars/microsoft/MaskFlownet)
 |CVPR20|[ScopeFlow: Dynamic Scene Scoping for Optical Flow](https://arxiv.org/abs/2002.10770)|[ScopeFlow](https://github.com/avirambh/ScopeFlow) ![Github stars](https://img.shields.io/github/stars/avirambh/ScopeFlow)
@@ -30,7 +31,7 @@ This is a list of awesome articles about optical flow and related work. [Click h
 | Time | Paper | Repo |
 | -------- | -------- | -------- |
 |CVPR21|[SMURF: Self-Teaching Multi-Frame Unsupervised RAFT with Full-Image Warping](https://arxiv.org/abs/2105.07014)
-|CVPR21|[UPFlow: Upsampling Pyramid for Unsupervised Optical Flow Learning](https://openaccess.thecvf.com/content/CVPR2021/papers/Luo_UPFlow_Upsampling_Pyramid_for_Unsupervised_Optical_Flow_Learning_CVPR_2021_paper.pdf)|[UPFlow_pytorch](https://github.com/coolbeam/UPFlow_pytorch)
+|CVPR21|[UPFlow: Upsampling Pyramid for Unsupervised Optical Flow Learning](https://openaccess.thecvf.com/content/CVPR2021/papers/Luo_UPFlow_Upsampling_Pyramid_for_Unsupervised_Optical_Flow_Learning_CVPR_2021_paper.pdf)|[UPFlow_pytorch](https://github.com/coolbeam/UPFlow_pytorch) ![Github stars](https://img.shields.io/github/stars/coolbeam/UPFlow_pytorch)
 |ECCV20|[What Matters in Unsupervised Optical Flow](https://arxiv.org/abs/2006.04902)|[uflow](https://github.com/google-research/google-research/tree/master/uflow) GoogleResearch
 |CVPR20|[Learning by Analogy: Reliable Supervision from Transformations for Unsupervised Optical Flow Estimation](https://arxiv.org/abs/2003.13045)|[ARFlow](https://github.com/lliuz/ARFlow) ![Github stars](https://img.shields.io/github/stars/lliuz/ARFlow)
 |CVPR20|[Flow2Stereo: Effective Self-Supervised Learning of Optical Flow and Stereo Matching](https://arxiv.org/abs/2004.02138)
@@ -80,6 +81,7 @@ This is a list of awesome articles about optical flow and related work. [Click h
 | -------- | -------- | -------- |
 |CVPR21|[RAFT-3D: Scene Flow Using Rigid-Motion Embeddings](https://arxiv.org/pdf/2012.00726.pdf)
 |CVPR21|[Just Go With the Flow: Self-Supervised Scene Flow Estimation](https://arxiv.org/pdf/1912.00497.pdf)|[Just-Go-with-the-Flow-Self-Supervised-Scene-Flow-Estimation](https://github.com/HimangiM/Just-Go-with-the-Flow-Self-Supervised-Scene-Flow-Estimation) ![Github stars](https://img.shields.io/github/stars/HimangiM/Just-Go-with-the-Flow-Self-Supervised-Scene-Flow-Estimation)
+|CVPR21|[Learning to Segment Rigid Motions from Two Frames](https://arxiv.org/abs/2101.03694)|[rigidmask](https://github.com/gengshan-y/rigidmask)![Github stars](https://img.shields.io/github/stars/gengshan-y/rigidmask)
 |CVPR20|[Upgrading Optical Flow to 3D Scene Flow through Optical Expansion](https://openaccess.thecvf.com/content_CVPR_2020/html/Yang_Upgrading_Optical_Flow_to_3D_Scene_Flow_Through_Optical_Expansion_CVPR_2020_paper.html)|[expansion](https://github.com/gengshan-y/expansion) ![Github stars](https://img.shields.io/github/stars/gengshan-y/expansion)
 |CVPR20|[Self-Supervised Monocular Scene Flow Estimation](https://arxiv.org/abs/2004.04143)|[self-mono-sf](https://github.com/visinf/self-mono-sf) ![Github stars](https://img.shields.io/github/stars/visinf/self-mono-sf)
 
