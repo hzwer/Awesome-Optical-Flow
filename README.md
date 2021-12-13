@@ -55,11 +55,17 @@ Code: [FlowNetPytorch](https://github.com/ClementPinard/FlowNetPytorch) ![Github
 Code: [depthstillation](https://github.com/mattpoggi/depthstillation) ![Github stars](https://img.shields.io/github/stars/mattpoggi/depthstillation)
 
 ### Unsupervised Models
+#### [CVPR21 SMURF: Self-Teaching Multi-Frame Unsupervised RAFT with Full-Image Warping](https://arxiv.org/abs/2105.07014)
+
+
 #### [CVPR21 UPFlow: Upsampling Pyramid for Unsupervised Optical Flow Learning](https://openaccess.thecvf.com/content/CVPR2021/papers/Luo_UPFlow_Upsampling_Pyramid_for_Unsupervised_Optical_Flow_Learning_CVPR_2021_paper.pdf)
 Code: [UPFlow_pytorch](https://github.com/coolbeam/UPFlow_pytorch)
 
 #### [ECCV20 What Matters in Unsupervised Optical Flow](https://arxiv.org/abs/2006.04902)
 Code: [uflow](https://github.com/google-research/google-research/tree/master/uflow) GoogleResearch
+
+#### [CVPR20 Learning by Analogy: Reliable Supervision from Transformations for Unsupervised Optical Flow Estimation](https://arxiv.org/abs/2003.13045)
+Code: [ARFlow](https://github.com/lliuz/ARFlow) ![Github stars](https://img.shields.io/github/stars/lliuz/ARFlow)
 
 #### [CVPR19 SelFlow: Self-Supervised Learning of Optical Flow](https://arxiv.org/abs/1904.09117)
 Code: [SelFlow](https://github.com/ppliuboy/SelFlow) ![Github stars](https://img.shields.io/github/stars/ppliuboy/SelFlow)
@@ -76,6 +82,8 @@ Code: [Optical-Flow-in-the-Dark](https://github.com/mf-zhang/Optical-Flow-in-the
 #### [CVPR18 Robust Optical Flow Estimation in Rainy Scenes](https://arxiv.org/abs/1704.05239)
 
 ## Scene Flow
+#### [CVPR21 RAFT-3D: Scene Flow Using Rigid-Motion Embeddings](https://arxiv.org/pdf/2012.00726.pdf)
+
 #### [CVPR20 Upgrading Optical Flow to 3D Scene Flow through Optical Expansion](https://openaccess.thecvf.com/content_CVPR_2020/html/Yang_Upgrading_Optical_Flow_to_3D_Scene_Flow_Through_Optical_Expansion_CVPR_2020_paper.html)
 Code: [expansion](https://github.com/gengshan-y/expansion) ![Github stars](https://img.shields.io/github/stars/gengshan-y/expansion)
 
@@ -122,3 +130,11 @@ Code: [jiyang.fun](https://drive.google.com/file/d/1wQJYFd8TMbCRzhmFfDyBj7oHAGfy
 #### [CVPR14 Spatially Smooth Optical Flow for Video Stabilization](http://www.liushuaicheng.org/CVPR2014/SteadyFlow.pdf)
 
 ### Low Level Vision
+#### [ICCV21 Deep Reparametrization of Multi-Frame Super-Resolution and Denoising](https://arxiv.org/abs/2108.08286)
+Code: [deep-rep](https://github.com/goutamgmb/deep-rep) ![Github stars](https://img.shields.io/github/stars/goutamgmb/deep-rep)
+
+#### [CVPR21 Deep Burst Super-Resolution](https://arxiv.org/abs/2101.10997)
+Code: [deep-burst-sr](https://github.com/goutamgmb/deep-burst-sr) ![Github stars](https://img.shields.io/github/stars/goutamgmb/deep-burst-sr)
+
+#### [TIP20 Deep video super-resolution using HR optical flow estimation](https://arxiv.org/abs/2001.02129)
+Code: [SOF-VSR](https://github.com/The-Learning-And-Vision-Atelier-LAVA/SOF-VSR) ![Github stars](https://img.shields.io/github/stars/The-Learning-And-Vision-Atelier-LAVA/SOF-VSR)
