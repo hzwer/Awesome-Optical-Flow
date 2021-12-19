@@ -49,7 +49,7 @@ This is a list of awesome articles about optical flow and related work. [Click h
 |CVPR10|[Secrets of Optical Flow Estimation and Their Principles](https://users.soe.ucsc.edu/~pang/200/f18/papers/2018/05539939.pdf)
 |ICCV13|[DeepFlow: Large Displacement Optical Flow with Deep Matching](https://openaccess.thecvf.com/content_iccv_2013/papers/Weinzaepfel_DeepFlow_Large_Displacement_2013_ICCV_paper.pdf)|[Project](https://thoth.inrialpes.fr/src/deepflow/)
 |ECCV14|[Optical Flow Estimation with Channel Constancy](https://link.springer.com/content/pdf/10.1007/978-3-319-10590-1_28.pdf)
-|CVPR15|[EpicFlow](Edge-Preserving Interpolation of Correspondences for Optical Flow)|[epic-flow](https://github.com/ZikeYan/epic-flow) ![Github stars](https://img.shields.io/github/stars/ZikeYan/epic-flow)
+|CVPR15|[EpicFlow: Edge-Preserving Interpolation of Correspondences for Optical Flow](http://openaccess.thecvf.com/content_cvpr_2015/html/Revaud_EpicFlow_Edge-Preserving_Interpolation_2015_CVPR_paper.html)|[epic-flow](https://github.com/ZikeYan/epic-flow) ![Github stars](https://img.shields.io/github/stars/ZikeYan/epic-flow)|
 |CVPR17|[S2F: Slow-To-Fast Interpolator Flow](https://openaccess.thecvf.com/content_cvpr_2017/papers/Yang_S2F_Slow-To-Fast_Interpolator_CVPR_2017_paper.pdf)
 
 ### Joint Learning
