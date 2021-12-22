@@ -109,6 +109,11 @@ This is a list of awesome articles about optical flow and related work. [Click h
 |CVPR18|[Super SloMo: High Quality Estimation of Multiple Intermediate Frames for Video Interpolation](https://arxiv.org/abs/1712.00080)|[Super-SloMo](https://github.com/avinashpaliwal/Super-SloMo) ![Github stars](https://img.shields.io/github/stars/avinashpaliwal/Super-SloMo)
 |ICCV17|[Video Frame Synthesis using Deep Voxel Flow](https://arxiv.org/abs/1702.02463)|[voxel-flow](https://github.com/liuziwei7/voxel-flow) ![Github stars](https://img.shields.io/github/stars/liuziwei7/voxel-flow) | [pytorch-voxel-flow](https://github.com/lxx1991/pytorch-voxel-flow) ![Github stars](https://img.shields.io/github/stars/lxx1991/pytorch-voxel-flow)
 
+### Video Compression
+| Time | Paper | Repo |
+| -------- | -------- | -------- |
+|CVPR19|[DVC: An End-to-end Deep Video Compression Framework](https://arxiv.org/abs/1812.00101)|[PyTorchVideoCompression](https://github.com/ZhihaoHu/PyTorchVideoCompression) ![Github stars](https://img.shields.io/github/stars/ZhihaoHu/PyTorchVideoCompression)
+
 ### Video Action Recognition
 | Time | Paper | Repo |
 | -------- | -------- | -------- |
@@ -119,6 +124,11 @@ This is a list of awesome articles about optical flow and related work. [Click h
 | Time | Paper | Repo |
 | -------- | -------- | -------- |
 |ICCV17|[SegFlow: Joint Learning for Video Object Segmentation and Optical Flow](https://arxiv.org/abs/1709.06750)|[SegFlow](https://github.com/JingchunCheng/SegFlow) ![Github stars](https://img.shields.io/github/stars/JingchunCheng/SegFlow)
+
+### Object Tracking
+| Time | Paper | Repo |
+| -------- | -------- | -------- |
+|CVPR18|[End-to-end Flow Correlation Tracking with Spatial-temporal Attention](https://arxiv.org/abs/1711.01124)
 
 ### Video Stabilization
 | Time | Paper | Repo |
