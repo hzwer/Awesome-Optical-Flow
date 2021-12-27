@@ -39,6 +39,7 @@ This is a list of awesome articles about optical flow and related work. [Click h
 |CVPR20|[Flow2Stereo: Effective Self-Supervised Learning of Optical Flow and Stereo Matching](https://arxiv.org/abs/2004.02138)
 |AAAI19|[DDFlow: Learning Optical Flow with Unlabeled Data Distillation](https://arxiv.org/abs/1902.09145)|[DDFlow](https://github.com/ppliuboy/DDFlow) ![Github stars](https://img.shields.io/github/stars/ppliuboy/DDFlow)
 |CVPR19|[SelFlow: Self-Supervised Learning of Optical Flow](https://arxiv.org/abs/1904.09117)|[SelFlow](https://github.com/ppliuboy/SelFlow) ![Github stars](https://img.shields.io/github/stars/ppliuboy/SelFlow)
+|CVPR19|[Unsupervised Deep Epipolar Flow for Stationary or Dynamic Scenes](https://arxiv.org/abs/1904.03848)|[EPIFlow](https://github.com/yiranzhong/EPIflow) ![Github stars](https://img.shields.io/github/stars/yiranzhong/EPIflow)
 |CVPR18|[Unsupervised Learning of Dense Depth, Optical Flow and Camera Pose](https://arxiv.org/abs/1803.02276)|[GeoNet](https://github.com/yzcjtr/GeoNet) ![Github stars](https://img.shields.io/github/stars/yzcjtr/GeoNet)
 
 ### Classical Methods
