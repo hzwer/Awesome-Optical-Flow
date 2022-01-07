@@ -7,6 +7,7 @@ This is a list of awesome articles about optical flow and related work. [Click h
 | Time | Paper | Repo |
 | -------- | -------- | -------- |
 |arXiv21|[GMFlow: Learning Optical Flow via Global Matching](https://arxiv.org/abs/2111.13680)|[gmflow](https://github.com/haofeixu/gmflow) ![Github stars](https://img.shields.io/github/stars/haofeixu/gmflow)|
+|ICCV21|[High-Resolution Optical Flow from 1D Attention and Correlation](https://arxiv.org/abs/2104.13918)
 |ICCV21|[Learning to Estimate Hidden Motions with Global Motion Aggregation](https://arxiv.org/abs/2104.02409)|[GMA](https://github.com/zacjiang/GMA) ![Github stars](https://img.shields.io/github/stars/zacjiang/GMA)|
 |CVPR21|[Learning Optical Flow from a Few Matches](https://arxiv.org/abs/2104.02166)|[SCV](https://github.com/zacjiang/SCV) ![Github stars](https://img.shields.io/github/stars/zacjiang/SCV)|
 |TIP21|[Detail Preserving Coarse-to-Fine Matching for Stereo Matching and Optical Flow](https://ieeexplore.ieee.org/document/9459444)
@@ -75,6 +76,7 @@ This is a list of awesome articles about optical flow and related work. [Click h
 ### Special Scene
 | Time | Paper | Repo |
 | -------- | -------- | -------- |
+|AAAI21|[Optical flow estimation from a single motion-blurred image](https://www.aaai.org/AAAI21Papers/AAAI-3339.ArgawD.pdf)|
 |CVPR20|[Optical Flow in Dense Foggy Scenes using Semi-Supervised Learning](https://arxiv.org/abs/2004.01905)
 |CVPR20|[Optical Flow in the Dark](https://openaccess.thecvf.com/content_CVPR_2020/html/Zheng_Optical_Flow_in_the_Dark_CVPR_2020_paper.html)|[Optical-Flow-in-the-Dark](https://github.com/mf-zhang/Optical-Flow-in-the-Dark) ![Github stars](https://img.shields.io/github/stars/mf-zhang/Optical-Flow-in-the-Dark)
 |ICCV19|[RainFlow: Optical Flow under Rain Streaks and Rain Veiling Effect](https://openaccess.thecvf.com/content_ICCV_2019/html/Li_RainFlow_Optical_Flow_Under_Rain_Streaks_and_Rain_Veiling_Effect_ICCV_2019_paper.html)
