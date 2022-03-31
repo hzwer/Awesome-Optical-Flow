@@ -6,7 +6,8 @@ This is a list of awesome articles about optical flow and related work. [Click h
 ### Supervised Models
 | Time | Paper | Repo |
 | -------- | -------- | -------- |
-|arXiv21|[GMFlow: Learning Optical Flow via Global Matching](https://arxiv.org/abs/2111.13680)|[gmflow](https://github.com/haofeixu/gmflow) ![Github stars](https://img.shields.io/github/stars/haofeixu/gmflow)|
+|arXiv22.3|[FlowFormer: A Transformer Architecture for Optical Flow](https://arxiv.org/pdf/2203.16194.pdf)
+|CVPR22|[GMFlow: Learning Optical Flow via Global Matching](https://arxiv.org/abs/2111.13680)|[gmflow](https://github.com/haofeixu/gmflow) ![Github stars](https://img.shields.io/github/stars/haofeixu/gmflow)|
 |ICCV21|[High-Resolution Optical Flow from 1D Attention and Correlation](https://arxiv.org/abs/2104.13918)
 |ICCV21|[Learning to Estimate Hidden Motions with Global Motion Aggregation](https://arxiv.org/abs/2104.02409)|[GMA](https://github.com/zacjiang/GMA) ![Github stars](https://img.shields.io/github/stars/zacjiang/GMA)|
 |CVPR21|[Learning Optical Flow from a Few Matches](https://arxiv.org/abs/2104.02166)|[SCV](https://github.com/zacjiang/SCV) ![Github stars](https://img.shields.io/github/stars/zacjiang/SCV)|
