@@ -6,6 +6,7 @@ This is a list of awesome articles about optical flow and related work. [Click h
 ### Supervised Models
 | Time | Paper | Repo |
 | -------- | -------- | -------- |
+|arXiv22.4|[Deep Equilibrium Optical Flow Estimation](https://arxiv.org/pdf/2204.08442.pdf)|[deq-flow](https://github.com/locuslab/deq-flow) ![Github stars](https://img.shields.io/github/stars/locuslab/deq-flow)|
 |arXiv22.3|[FlowFormer: A Transformer Architecture for Optical Flow](https://arxiv.org/pdf/2203.16194.pdf)
 |CVPR22|[GMFlow: Learning Optical Flow via Global Matching](https://arxiv.org/abs/2111.13680)|[gmflow](https://github.com/haofeixu/gmflow) ![Github stars](https://img.shields.io/github/stars/haofeixu/gmflow)|
 |ICCV21|[High-Resolution Optical Flow from 1D Attention and Correlation](https://arxiv.org/abs/2104.13918)
