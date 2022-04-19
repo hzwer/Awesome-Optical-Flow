@@ -37,6 +37,7 @@ This is a list of awesome articles about optical flow and related work. [Click h
 | -------- | -------- | -------- |
 |CVPR21|[SMURF: Self-Teaching Multi-Frame Unsupervised RAFT with Full-Image Warping](https://arxiv.org/abs/2105.07014)
 |CVPR21|[UPFlow: Upsampling Pyramid for Unsupervised Optical Flow Learning](https://openaccess.thecvf.com/content/CVPR2021/papers/Luo_UPFlow_Upsampling_Pyramid_for_Unsupervised_Optical_Flow_Learning_CVPR_2021_paper.pdf)|[UPFlow_pytorch](https://github.com/coolbeam/UPFlow_pytorch) ![Github stars](https://img.shields.io/github/stars/coolbeam/UPFlow_pytorch)
+|TIP21|[OccInpFlow: Occlusion-Inpainting Optical Flow Estimation by Unsupervised Learning](https://arxiv.org/abs/2006.16637)|[depthstillation](https://github.com/coolbeam/OIFlow) ![Github stars](https://img.shields.io/github/stars/coolbeam/OIFlow)
 |ECCV20|[What Matters in Unsupervised Optical Flow](https://arxiv.org/abs/2006.04902)|[uflow](https://github.com/google-research/google-research/tree/master/uflow) GoogleResearch
 |CVPR20|[Learning by Analogy: Reliable Supervision from Transformations for Unsupervised Optical Flow Estimation](https://arxiv.org/abs/2003.13045)|[ARFlow](https://github.com/lliuz/ARFlow) ![Github stars](https://img.shields.io/github/stars/lliuz/ARFlow)
 |CVPR20|[Flow2Stereo: Effective Self-Supervised Learning of Optical Flow and Stereo Matching](https://arxiv.org/abs/2004.02138)
