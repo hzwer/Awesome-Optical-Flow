@@ -152,7 +152,8 @@ This is a list of awesome articles about optical flow and related work. [Click h
 |CVPR20|[Efficient Dynamic Scene Deblurring Using Spatially Variant Deconvolution Network With Optical Flow Guided Training](https://openaccess.thecvf.com/content_CVPR_2020/html/Yuan_Efficient_Dynamic_Scene_Deblurring_Using_Spatially_Variant_Deconvolution_Network_With_CVPR_2020_paper.html)|
 |TIP20|[Deep video super-resolution using HR optical flow estimation](https://arxiv.org/abs/2001.02129)|[SOF-VSR](https://github.com/The-Learning-And-Vision-Atelier-LAVA/SOF-VSR) ![Github stars](https://img.shields.io/github/stars/The-Learning-And-Vision-Atelier-LAVA/SOF-VSR)
 
-### SLAM
+### Stereo and SLAM
 | Time | Paper | Repo |
 | -------- | -------- | -------- |
+|3DV21|[RAFT-Stereo: Multilevel Recurrent Field Transforms for Stereo Matching](https://arxiv.org/pdf/2109.07547.pdf)|[RAFT-Stereo](https://github.com/princeton-vl/RAFT-Stereo) ![Github stars](https://img.shields.io/github/stars/princeton-vl/RAFT-Stereo)
 |CVPR20|[VOLDOR: Visual Odometry From Log-Logistic Dense Optical Flow Residuals](https://openaccess.thecvf.com/content_CVPR_2020/html/Min_VOLDOR_Visual_Odometry_From_Log-Logistic_Dense_Optical_Flow_Residuals_CVPR_2020_paper.html)|[VOLDOR](https://github.com/htkseason/VOLDOR) ![Github stars](https://img.shields.io/github/stars/htkseason/VOLDOR)
