@@ -6,6 +6,7 @@ This is a list of awesome articles about optical flow and related work. [Click h
 ### Supervised Models
 | Time | Paper | Repo |
 | -------- | -------- | -------- |
+|arXiv22.5|[SKFlow: Learning Optical Flow with Super Kernels](https://arxiv.org/pdf/2205.14623.pdf)
 |CVPR22|[Deep Equilibrium Optical Flow Estimation](https://arxiv.org/pdf/2204.08442.pdf)|[deq-flow](https://github.com/locuslab/deq-flow) ![Github stars](https://img.shields.io/github/stars/locuslab/deq-flow)|
 |arXiv22.3|[FlowFormer: A Transformer Architecture for Optical Flow](https://arxiv.org/pdf/2203.16194.pdf)
 |CVPR22|[GMFlow: Learning Optical Flow via Global Matching](https://arxiv.org/abs/2111.13680)|[gmflow](https://github.com/haofeixu/gmflow) ![Github stars](https://img.shields.io/github/stars/haofeixu/gmflow)|
@@ -106,7 +107,8 @@ This is a list of awesome articles about optical flow and related work. [Click h
 ### Video Frame Interpolation
 | Time | Paper | Repo |
 | -------- | -------- | -------- |
-|TOG21|[Neural Frame Interpolation for Rendered Content ](https://dl.acm.org/doi/abs/10.1145/3478513.3480553)
+|CVPR22|[IFRNet: Intermediate Feature Refine Network for Efficient Frame Interpolation](https://arxiv.org/pdf/2205.14620.pdf)
+|TOG21|[Neural Frame Interpolation for Rendered Content](https://dl.acm.org/doi/abs/10.1145/3478513.3480553)
 |CVPR21|[Deep Animation Video Interpolation in the Wild](https://arxiv.org/abs/2104.02495)|[AnimeInterp](https://github.com/lisiyao21/AnimeInterp) ![Github stars](https://img.shields.io/github/stars/lisiyao21/AnimeInterp)
 |CVPR20|[Softmax Splatting for Video Frame Interpolation](https://arxiv.org/abs/2003.05534)|[softmax-splatting](https://github.com/sniklaus/softmax-splatting) ![Github stars](https://img.shields.io/github/stars/sniklaus/softmax-splatting)
 |CVPR20|[Adaptive Collaboration of Flows for Video Frame Interpolation](https://arxiv.org/abs/1907.10244)|[AdaCoF-pytorch](https://github.com/HyeongminLEE/AdaCoF-pytorch) ![Github stars](https://img.shields.io/github/stars/HyeongminLEE/AdaCoF-pytorch)
