@@ -6,10 +6,10 @@ This is a list of awesome articles about optical flow and related work. [Click h
 ### Supervised Models
 | Time | Paper | Repo |
 | -------- | -------- | -------- |
+|ECCV22|[FlowFormer: A Transformer Architecture for Optical Flow](https://arxiv.org/pdf/2203.16194.pdf)
+|CVPR22|[GMFlow: Learning Optical Flow via Global Matching](https://arxiv.org/abs/2111.13680)|[gmflow](https://github.com/haofeixu/gmflow) ![Github stars](https://img.shields.io/github/stars/haofeixu/gmflow)|
 |arXiv22.5|[SKFlow: Learning Optical Flow with Super Kernels](https://arxiv.org/pdf/2205.14623.pdf)
 |CVPR22|[Deep Equilibrium Optical Flow Estimation](https://arxiv.org/pdf/2204.08442.pdf)|[deq-flow](https://github.com/locuslab/deq-flow) ![Github stars](https://img.shields.io/github/stars/locuslab/deq-flow)|
-|arXiv22.3|[FlowFormer: A Transformer Architecture for Optical Flow](https://arxiv.org/pdf/2203.16194.pdf)
-|CVPR22|[GMFlow: Learning Optical Flow via Global Matching](https://arxiv.org/abs/2111.13680)|[gmflow](https://github.com/haofeixu/gmflow) ![Github stars](https://img.shields.io/github/stars/haofeixu/gmflow)|
 |ICCV21|[High-Resolution Optical Flow from 1D Attention and Correlation](https://arxiv.org/abs/2104.13918)
 |ICCV21|[Learning to Estimate Hidden Motions with Global Motion Aggregation](https://arxiv.org/abs/2104.02409)|[GMA](https://github.com/zacjiang/GMA) ![Github stars](https://img.shields.io/github/stars/zacjiang/GMA)|
 |CVPR21|[Learning Optical Flow from a Few Matches](https://arxiv.org/abs/2104.02166)|[SCV](https://github.com/zacjiang/SCV) ![Github stars](https://img.shields.io/github/stars/zacjiang/SCV)|
@@ -107,6 +107,7 @@ This is a list of awesome articles about optical flow and related work. [Click h
 ### Video Frame Interpolation
 | Time | Paper | Repo |
 | -------- | -------- | -------- |
+|ECCV22|[Real-Time Intermediate Flow Estimation for Video Frame Interpolation](https://arxiv.org/abs/2011.06294)|[RIFE](https://github.com/hzwer/ECCV2022-RIFE) ![Github stars](https://img.shields.io/github/stars/hzwer/ECCV2022-RIFE)
 |CVPR22|[VideoINR: Learning Video Implicit Neural Representation for Continuous Space-Time Super-Resolution](https://arxiv.org/pdf/2206.04647.pdf)|[VideoINR](https://github.com/Picsart-AI-Research/VideoINR-Continuous-Space-Time-Super-Resolution) ![Github stars](https://img.shields.io/github/stars/Picsart-AI-Research/VideoINR-Continuous-Space-Time-Super-Resolution)
 |CVPR22|[IFRNet: Intermediate Feature Refine Network for Efficient Frame Interpolation](https://arxiv.org/pdf/2205.14620.pdf)|[IFRNet](https://github.com/ltkong218/IFRNet) ![Github stars](https://img.shields.io/github/stars/ltkong218/IFRNet)
 |TOG21|[Neural Frame Interpolation for Rendered Content](https://dl.acm.org/doi/abs/10.1145/3478513.3480553)
