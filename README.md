@@ -7,6 +7,7 @@ This is a list of awesome articles about optical flow and related work. [Click h
 | Time | Paper | Repo |
 | -------- | -------- | -------- |
 |ECCV22|[FlowFormer: A Transformer Architecture for Optical Flow](https://arxiv.org/pdf/2203.16194.pdf)|[FlowFormer](https://github.com/drinkingcoder/FlowFormer-Official/) ![Github stars](https://img.shields.io/github/stars/drinkingcoder/FlowFormer-Official)|
+|CVPR22|[Learning Optical Flow with Kernel Patch Attention](https://openaccess.thecvf.com/content/CVPR2022/papers/Luo_Learning_Optical_Flow_With_Kernel_Patch_Attention_CVPR_2022_paper.pdf)|
 |CVPR22|[GMFlow: Learning Optical Flow via Global Matching](https://arxiv.org/abs/2111.13680)|[gmflow](https://github.com/haofeixu/gmflow) ![Github stars](https://img.shields.io/github/stars/haofeixu/gmflow)|
 |arXiv22.5|[SKFlow: Learning Optical Flow with Super Kernels](https://arxiv.org/pdf/2205.14623.pdf)
 |arXiv22.3|[What Makes RAFT Better Than PWC-Net?](https://arxiv.org/abs/2203.10712)
