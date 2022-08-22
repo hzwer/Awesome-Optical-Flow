@@ -9,6 +9,7 @@ This is a list of awesome articles about optical flow and related work. [Click h
 |ECCV22|[FlowFormer: A Transformer Architecture for Optical Flow](https://arxiv.org/pdf/2203.16194.pdf)|[FlowFormer](https://github.com/drinkingcoder/FlowFormer-Official/) ![Github stars](https://img.shields.io/github/stars/drinkingcoder/FlowFormer-Official)|
 |CVPR22|[GMFlow: Learning Optical Flow via Global Matching](https://arxiv.org/abs/2111.13680)|[gmflow](https://github.com/haofeixu/gmflow) ![Github stars](https://img.shields.io/github/stars/haofeixu/gmflow)|
 |arXiv22.5|[SKFlow: Learning Optical Flow with Super Kernels](https://arxiv.org/pdf/2205.14623.pdf)
+|arXiv22.3|[What Makes RAFT Better Than PWC-Net?](https://arxiv.org/abs/2203.10712)
 |CVPR22|[Deep Equilibrium Optical Flow Estimation](https://arxiv.org/pdf/2204.08442.pdf)|[deq-flow](https://github.com/locuslab/deq-flow) ![Github stars](https://img.shields.io/github/stars/locuslab/deq-flow)|
 |ICCV21|[High-Resolution Optical Flow from 1D Attention and Correlation](https://arxiv.org/abs/2104.13918)
 |ICCV21|[Learning to Estimate Hidden Motions with Global Motion Aggregation](https://arxiv.org/abs/2104.02409)|[GMA](https://github.com/zacjiang/GMA) ![Github stars](https://img.shields.io/github/stars/zacjiang/GMA)|
