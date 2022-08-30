@@ -39,6 +39,7 @@ This is a list of awesome articles about optical flow and related work. [Click h
 ### Unsupervised Models
 | Time | Paper | Repo |
 | -------- | -------- | -------- |
+|ECCV22|[Optical Flow Training under Limited Label Budget via Active Learning](https://arxiv.org/pdf/2203.05053.pdf)|[optical-flow-active-learning-release](https://github.com/duke-vision/optical-flow-active-learning-release) ![Github stars](https://img.shields.io/github/stars/duke-vision/optical-flow-active-learning-release)
 |CVPR21|[SMURF: Self-Teaching Multi-Frame Unsupervised RAFT with Full-Image Warping](https://arxiv.org/abs/2105.07014)
 |CVPR21|[UPFlow: Upsampling Pyramid for Unsupervised Optical Flow Learning](https://openaccess.thecvf.com/content/CVPR2021/papers/Luo_UPFlow_Upsampling_Pyramid_for_Unsupervised_Optical_Flow_Learning_CVPR_2021_paper.pdf)|[UPFlow_pytorch](https://github.com/coolbeam/UPFlow_pytorch) ![Github stars](https://img.shields.io/github/stars/coolbeam/UPFlow_pytorch)
 |TIP21|[OccInpFlow: Occlusion-Inpainting Optical Flow Estimation by Unsupervised Learning](https://arxiv.org/abs/2006.16637)|[depthstillation](https://github.com/coolbeam/OIFlow) ![Github stars](https://img.shields.io/github/stars/coolbeam/OIFlow)
