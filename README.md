@@ -130,6 +130,12 @@ This is a list of awesome articles about optical flow and related work. [Click h
 | -------- | -------- | -------- |
 |CVPR19|[DVC: An End-to-end Deep Video Compression Framework](https://arxiv.org/abs/1812.00101)|[PyTorchVideoCompression](https://github.com/ZhihaoHu/PyTorchVideoCompression) ![Github stars](https://img.shields.io/github/stars/ZhihaoHu/PyTorchVideoCompression)
 
+### Video Inpainting
+| Time | Paper | Repo |
+| -------- | -------- | -------- |
+|ECCV22|[Flow-Guided Transformer for Video Inpainting](https://arxiv.org/abs/2208.06768)|[FGT](https://github.com/hitachinsk/FGT) ![Github stars](https://img.shields.io/github/stars/hitachinsk/FGT)
+
+
 ### Video Action Recognition
 | Time | Paper | Repo |
 | -------- | -------- | -------- |
