@@ -134,6 +134,7 @@ This is a list of awesome articles about optical flow and related work. [Click h
 | Time | Paper | Repo |
 | -------- | -------- | -------- |
 |ECCV22|[Flow-Guided Transformer for Video Inpainting](https://arxiv.org/abs/2208.06768)|[FGT](https://github.com/hitachinsk/FGT) ![Github stars](https://img.shields.io/github/stars/hitachinsk/FGT)
+|CVPR22|[Inertia-Guided Flow Completion and Style Fusion for Video Inpainting](https://openaccess.thecvf.com/content/CVPR2022/papers/Zhang_Inertia-Guided_Flow_Completion_and_Style_Fusion_for_Video_Inpainting_CVPR_2022_paper.pdf)|[isvi](https://github.com/hitachinsk/isvi) ![Github stars](https://img.shields.io/github/stars/hitachinsk/isvi)
 
 
 ### Video Action Recognition
