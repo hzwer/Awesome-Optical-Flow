@@ -30,6 +30,11 @@ The table of contents is on the left side of the "README.md".
 |CVPR17|[Optical Flow Estimation using a Spatial Pyramid Network](https://arxiv.org/abs/1611.00850)|[spynet](https://github.com/anuragranj/spynet) ![Github stars](https://img.shields.io/github/stars/anuragranj/spynet) | [pytorch-spynet](https://github.com/sniklaus/pytorch-spynet) ![Github stars](https://img.shields.io/github/stars/sniklaus/pytorch-spynet)
 |ICCV15|[FlowNet: Learning Optical Flow with Convolutional Networks](https://arxiv.org/abs/1504.06852)|[FlowNetPytorch](https://github.com/ClementPinard/FlowNetPytorch) ![Github stars](https://img.shields.io/github/stars/ClementPinard/FlowNetPytorch)
 
+### Semi-supervised Models
+| Time | Paper | Repo |
+| -------- | -------- | -------- |
+|ECCV22|[Semi-Supervised Learning of Optical Flow by Flow Supervisor](https://arxiv.org/abs/2207.10314)
+
 ### Data Synthesis
 | Time | Paper | Repo |
 | -------- | -------- | -------- |
@@ -86,6 +91,7 @@ The table of contents is on the left side of the "README.md".
 ### Special Scene
 | Time | Paper | Repo |
 | -------- | -------- | -------- |
+|ECCV22|[Deep 360∘ Optical Flow Estimation Based on Multi-Projection Fusion](https://arxiv.org/abs/2208.00776)
 |AAAI21|[Optical flow estimation from a single motion-blurred image](https://www.aaai.org/AAAI21Papers/AAAI-3339.ArgawD.pdf)|
 |CVPR20|[Optical Flow in Dense Foggy Scenes using Semi-Supervised Learning](https://arxiv.org/abs/2004.01905)
 |CVPR20|[Optical Flow in the Dark](https://openaccess.thecvf.com/content_CVPR_2020/html/Zheng_Optical_Flow_in_the_Dark_CVPR_2020_paper.html)|[Optical-Flow-in-the-Dark](https://github.com/mf-zhang/Optical-Flow-in-the-Dark) ![Github stars](https://img.shields.io/github/stars/mf-zhang/Optical-Flow-in-the-Dark)
