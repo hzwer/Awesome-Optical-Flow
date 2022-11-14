@@ -74,6 +74,7 @@ The table of contents is on the left side of the "README.md".
 ### Joint Learning
 | Time | Paper | Repo |
 | -------- | -------- | -------- |
+|arXiv21.11|[Unifying Flow, Stereo and Depth Estimation](https://arxiv.org/abs/2211.05783)|[unimatch](https://github.com/autonomousvision/unimatch) ![Github stars](https://img.shields.io/github/stars/autonomousvision/unimatch)|
 |CVPR21|[EffiScene: Efficient Per-Pixel Rigidity Inference for Unsupervised Joint Learning of Optical Flow, Depth, Camera Pose and Motion Segmentation](https://openaccess.thecvf.com/content/CVPR2021/html/Jiao_EffiScene_Efficient_Per-Pixel_Rigidity_Inference_for_Unsupervised_Joint_Learning_of_CVPR_2021_paper.html)
 |CVPR21|[Feature-Level Collaboration: Joint Unsupervised Learning of Optical Flow, Stereo Depth and Camera Motion](https://openaccess.thecvf.com/content/CVPR2021/html/Chi_Feature-Level_Collaboration_Joint_Unsupervised_Learning_of_Optical_Flow_Stereo_Depth_CVPR_2021_paper.html)
 
