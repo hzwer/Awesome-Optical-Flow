@@ -120,6 +120,7 @@ The table of contents is on the left side of the "README.md".
 ### Video Frame Interpolation
 | Time | Paper | Repo |
 | -------- | -------- | -------- |
+|CVPR23|[Extracting Motion and Appearance via Inter-Frame Attention for Efficient Video Frame Interpolation](https://arxiv.org/abs/2303.00440)|[EMA-VFI](https://github.com/MCG-NJU/EMA-VFI) ![Github stars](https://img.shields.io/github/stars/MCG-NJU/EMA-VFI)
 |ECCV22|[Improving the Perceptual Quality of 2D Animation Interpolation](https://arxiv.org/abs/2011.06294)|[eisai](https://github.com/ShuhongChen/eisai-anime-interpolator) ![Github stars](https://img.shields.io/github/stars/ShuhongChen/eisai-anime-interpolator)
 |ECCV22|[Real-Time Intermediate Flow Estimation for Video Frame Interpolation](https://arxiv.org/abs/2011.06294)|[RIFE](https://github.com/hzwer/ECCV2022-RIFE) ![Github stars](https://img.shields.io/github/stars/hzwer/ECCV2022-RIFE)
 |CVPR22|[VideoINR: Learning Video Implicit Neural Representation for Continuous Space-Time Super-Resolution](https://arxiv.org/pdf/2206.04647.pdf)|[VideoINR](https://github.com/Picsart-AI-Research/VideoINR-Continuous-Space-Time-Super-Resolution) ![Github stars](https://img.shields.io/github/stars/Picsart-AI-Research/VideoINR-Continuous-Space-Time-Super-Resolution)
