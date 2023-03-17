@@ -30,7 +30,10 @@ The table of contents is on the left side of the "README.md".
 |CVPR17|[Optical Flow Estimation using a Spatial Pyramid Network](https://arxiv.org/abs/1611.00850)|[spynet](https://github.com/anuragranj/spynet) ![Github stars](https://img.shields.io/github/stars/anuragranj/spynet) | [pytorch-spynet](https://github.com/sniklaus/pytorch-spynet) ![Github stars](https://img.shields.io/github/stars/sniklaus/pytorch-spynet)
 |ICCV15|[FlowNet: Learning Optical Flow with Convolutional Networks](https://arxiv.org/abs/1504.06852)|[FlowNetPytorch](https://github.com/ClementPinard/FlowNetPytorch) ![Github stars](https://img.shields.io/github/stars/ClementPinard/FlowNetPytorch)
 
-### Semi-supervised Models
+### Multi-Frame Supervised Models
+|arXiv23.03|[VideoFlow: Exploiting Temporal Cues for Multi-frame Optical Flow Estimation](https://arxiv.org/abs/2303.08340)
+
+### Semi-Supervised Models
 | Time | Paper | Repo |
 | -------- | -------- | -------- |
 |ECCV22|[Semi-Supervised Learning of Optical Flow by Flow Supervisor](https://arxiv.org/abs/2207.10314)
