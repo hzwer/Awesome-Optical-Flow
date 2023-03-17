@@ -22,15 +22,10 @@ The table of contents is on the left side of the "README.md".
 |CVPR20|[MaskFlownet: Asymmetric Feature Matching with Learnable Occlusion Mask](https://arxiv.org/abs/2003.10955)|[MaskFlownet](https://github.com/microsoft/MaskFlownet) ![Github stars](https://img.shields.io/github/stars/microsoft/MaskFlownet)
 |CVPR20|[ScopeFlow: Dynamic Scene Scoping for Optical Flow](https://arxiv.org/abs/2002.10770)|[ScopeFlow](https://github.com/avirambh/ScopeFlow) ![Github stars](https://img.shields.io/github/stars/avirambh/ScopeFlow)
 |TPAMI20|[A Lightweight Optical Flow CNN - Revisiting Data Fidelity and Regularization](https://arxiv.org/abs/1903.07414)|[LiteFlowNet2](https://github.com/twhui/LiteFlowNet2) ![Github stars](https://img.shields.io/github/stars/twhui/LiteFlowNet2)
-|NeurIPS19|[Volumetric Correspondence Networks for Optical Flow](https://papers.nips.cc/paper/2019/hash/bbf94b34eb32268ada57a3be5062fe7d-Abstract.html)|[VCN](https://github.com/gengshan-y/VCN) ![Github stars](https://img.shields.io/github/stars/gengshan-y/VCN)
-|CVPR19|[Iterative Residual Refinement for Joint Optical Flow and Occlusion Estimation](https://arxiv.org/pdf/1904.05290.pdf)|[irr](https://github.com/visinf/irr) ![Github stars](https://img.shields.io/github/stars/visinf/irr)
-|CVPR18|[PWC-Net: CNNs for Optical Flow Using Pyramid, Warping, and Cost Volume](https://arxiv.org/abs/1709.02371)|[PWC-Net](https://github.com/NVlabs/PWC-Net) ![Github stars](https://img.shields.io/github/stars/NVlabs/PWC-Net) | [pytorch-pwc](https://github.com/sniklaus/pytorch-pwc) ![Github stars](https://img.shields.io/github/stars/sniklaus/pytorch-pwc) 
-|CVPR18|[LiteFlowNet: A Lightweight Convolutional Neural Network for Optical Flow Estimation](https://arxiv.org/abs/1805.07036)|[LiteFlowNet](https://github.com/twhui/LiteFlowNet) ![Github stars](https://img.shields.io/github/stars/twhui/LiteFlowNet) | [pytorch-liteflownet](https://github.com/sniklaus/pytorch-liteflownet) ![Github stars](https://img.shields.io/github/stars/sniklaus/pytorch-liteflownet)
-|CVPR17|[FlowNet 2.0: Evolution of Optical Flow Estimation with Deep Networks](https://arxiv.org/abs/1612.01925)|[flownet2-pytorch](https://github.com/NVIDIA/flownet2-pytorch) ![Github stars](https://img.shields.io/github/stars/NVIDIA/flownet2-pytorch) <br> [flownet2](https://github.com/lmb-freiburg/flownet2) ![Github stars](https://img.shields.io/github/stars/lmb-freiburg/flownet2) <br> [flownet2-tf](https://github.com/sampepose/flownet2-tf) ![Github stars](https://img.shields.io/github/stars/sampepose/flownet2-tf)
-|CVPR17|[Optical Flow Estimation using a Spatial Pyramid Network](https://arxiv.org/abs/1611.00850)|[spynet](https://github.com/anuragranj/spynet) ![Github stars](https://img.shields.io/github/stars/anuragranj/spynet) | [pytorch-spynet](https://github.com/sniklaus/pytorch-spynet) ![Github stars](https://img.shields.io/github/stars/sniklaus/pytorch-spynet)
-|ICCV15|[FlowNet: Learning Optical Flow with Convolutional Networks](https://arxiv.org/abs/1504.06852)|[FlowNetPytorch](https://github.com/ClementPinard/FlowNetPytorch) ![Github stars](https://img.shields.io/github/stars/ClementPinard/FlowNetPytorch)
 
 ### Multi-Frame Supervised Models
+| Time | Paper | Repo |
+| -------- | -------- | -------- |
 |arXiv23.03|[VideoFlow: Exploiting Temporal Cues for Multi-frame Optical Flow Estimation](https://arxiv.org/abs/2303.08340)
 
 ### Semi-Supervised Models
@@ -56,23 +51,6 @@ The table of contents is on the left side of the "README.md".
 |ECCV20|[What Matters in Unsupervised Optical Flow](https://arxiv.org/abs/2006.04902)|[uflow](https://github.com/google-research/google-research/tree/master/uflow) GoogleResearch
 |CVPR20|[Learning by Analogy: Reliable Supervision from Transformations for Unsupervised Optical Flow Estimation](https://arxiv.org/abs/2003.13045)|[ARFlow](https://github.com/lliuz/ARFlow) ![Github stars](https://img.shields.io/github/stars/lliuz/ARFlow)
 |CVPR20|[Flow2Stereo: Effective Self-Supervised Learning of Optical Flow and Stereo Matching](https://arxiv.org/abs/2004.02138)
-|AAAI19|[DDFlow: Learning Optical Flow with Unlabeled Data Distillation](https://arxiv.org/abs/1902.09145)|[DDFlow](https://github.com/ppliuboy/DDFlow) ![Github stars](https://img.shields.io/github/stars/ppliuboy/DDFlow)
-|CVPR19|[SelFlow: Self-Supervised Learning of Optical Flow](https://arxiv.org/abs/1904.09117)|[SelFlow](https://github.com/ppliuboy/SelFlow) ![Github stars](https://img.shields.io/github/stars/ppliuboy/SelFlow)
-|CVPR19|[Unsupervised Deep Epipolar Flow for Stationary or Dynamic Scenes](https://arxiv.org/abs/1904.03848)|[EPIFlow](https://github.com/yiranzhong/EPIflow) ![Github stars](https://img.shields.io/github/stars/yiranzhong/EPIflow)
-|CVPR18|[Unsupervised Learning of Dense Depth, Optical Flow and Camera Pose](https://arxiv.org/abs/1803.02276)|[GeoNet](https://github.com/yzcjtr/GeoNet) ![Github stars](https://img.shields.io/github/stars/yzcjtr/GeoNet)
-
-### Classical Methods
-| Time | Paper | Repo |
-| -------- | -------- | -------- |
-|IJCAI1981|[An iterative image registration technique with an application to stereo vision](http://citeseer.ist.psu.edu/viewdoc/download;jsessionid=C41563DCDDC44CB0E13D6D64D89FF3FD?doi=10.1.1.421.4619&rep=rep1&type=pdf)||
-|AI1981|[Determining optical flow](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.66.562&rep=rep1&type=pdf)|
-|IJCV1994|[Performance of optical flow techniques](https://link.springer.com/article/10.1007/BF01420984)
-|TPAMI10|[Motion Detail Preserving Optical Flow Estimation](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.221.896&rep=rep1&type=pdf)
-|CVPR10|[Secrets of Optical Flow Estimation and Their Principles](https://users.soe.ucsc.edu/~pang/200/f18/papers/2018/05539939.pdf)
-|ICCV13|[DeepFlow: Large Displacement Optical Flow with Deep Matching](https://openaccess.thecvf.com/content_iccv_2013/papers/Weinzaepfel_DeepFlow_Large_Displacement_2013_ICCV_paper.pdf)|[Project](https://thoth.inrialpes.fr/src/deepflow/)
-|ECCV14|[Optical Flow Estimation with Channel Constancy](https://link.springer.com/content/pdf/10.1007/978-3-319-10590-1_28.pdf)
-|CVPR15|[EpicFlow: Edge-Preserving Interpolation of Correspondences for Optical Flow](http://openaccess.thecvf.com/content_cvpr_2015/html/Revaud_EpicFlow_Edge-Preserving_Interpolation_2015_CVPR_paper.html)|[epic-flow](https://github.com/ZikeYan/epic-flow) ![Github stars](https://img.shields.io/github/stars/ZikeYan/epic-flow)|
-|CVPR17|[S2F: Slow-To-Fast Interpolator Flow](https://openaccess.thecvf.com/content_cvpr_2017/papers/Yang_S2F_Slow-To-Fast_Interpolator_CVPR_2017_paper.pdf)
 
 ### Joint Learning
 | Time | Paper | Repo |
@@ -81,17 +59,6 @@ The table of contents is on the left side of the "README.md".
 |CVPR21|[EffiScene: Efficient Per-Pixel Rigidity Inference for Unsupervised Joint Learning of Optical Flow, Depth, Camera Pose and Motion Segmentation](https://openaccess.thecvf.com/content/CVPR2021/html/Jiao_EffiScene_Efficient_Per-Pixel_Rigidity_Inference_for_Unsupervised_Joint_Learning_of_CVPR_2021_paper.html)
 |CVPR21|[Feature-Level Collaboration: Joint Unsupervised Learning of Optical Flow, Stereo Depth and Camera Motion](https://openaccess.thecvf.com/content/CVPR2021/html/Chi_Feature-Level_Collaboration_Joint_Unsupervised_Learning_of_Optical_Flow_Stereo_Depth_CVPR_2021_paper.html)
 
-### Classical Methods
-| Time | Paper | Repo |
-| -------- | -------- | -------- |
-|IJCAI1981|[An iterative image registration technique with an application to stereo vision](http://citeseer.ist.psu.edu/viewdoc/download;jsessionid=C41563DCDDC44CB0E13D6D64D89FF3FD?doi=10.1.1.421.4619&rep=rep1&type=pdf)||
-|AI1981|[Determining optical flow](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.66.562&rep=rep1&type=pdf)|
-|TPAMI10|[Motion Detail Preserving Optical Flow Estimation](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.221.896&rep=rep1&type=pdf)
-|CVPR10|[Secrets of Optical Flow Estimation and Their Principles](https://users.soe.ucsc.edu/~pang/200/f18/papers/2018/05539939.pdf)
-|ICCV13|[DeepFlow: Large Displacement Optical Flow with Deep Matching](https://openaccess.thecvf.com/content_iccv_2013/papers/Weinzaepfel_DeepFlow_Large_Displacement_2013_ICCV_paper.pdf)|[Project](https://thoth.inrialpes.fr/src/deepflow/)
-|ECCV14|[Optical Flow Estimation with Channel Constancy](https://link.springer.com/content/pdf/10.1007/978-3-319-10590-1_28.pdf)
-|CVPR17|[S2F: Slow-To-Fast Interpolator Flow](https://openaccess.thecvf.com/content_cvpr_2017/papers/Yang_S2F_Slow-To-Fast_Interpolator_CVPR_2017_paper.pdf)
-
 ### Special Scene
 | Time | Paper | Repo |
 | -------- | -------- | -------- |
@@ -99,8 +66,6 @@ The table of contents is on the left side of the "README.md".
 |AAAI21|[Optical flow estimation from a single motion-blurred image](https://www.aaai.org/AAAI21Papers/AAAI-3339.ArgawD.pdf)|
 |CVPR20|[Optical Flow in Dense Foggy Scenes using Semi-Supervised Learning](https://arxiv.org/abs/2004.01905)
 |CVPR20|[Optical Flow in the Dark](https://openaccess.thecvf.com/content_CVPR_2020/html/Zheng_Optical_Flow_in_the_Dark_CVPR_2020_paper.html)|[Optical-Flow-in-the-Dark](https://github.com/mf-zhang/Optical-Flow-in-the-Dark) ![Github stars](https://img.shields.io/github/stars/mf-zhang/Optical-Flow-in-the-Dark)
-|ICCV19|[RainFlow: Optical Flow under Rain Streaks and Rain Veiling Effect](https://openaccess.thecvf.com/content_ICCV_2019/html/Li_RainFlow_Optical_Flow_Under_Rain_Streaks_and_Rain_Veiling_Effect_ICCV_2019_paper.html)
-|CVPR18|[Robust Optical Flow Estimation in Rainy Scenes](https://arxiv.org/abs/1704.05239)
 
 ### Special Device
 
@@ -133,15 +98,6 @@ The table of contents is on the left side of the "README.md".
 |CVPR20|[Softmax Splatting for Video Frame Interpolation](https://arxiv.org/abs/2003.05534)|[softmax-splatting](https://github.com/sniklaus/softmax-splatting) ![Github stars](https://img.shields.io/github/stars/sniklaus/softmax-splatting)
 |CVPR20|[Adaptive Collaboration of Flows for Video Frame Interpolation](https://arxiv.org/abs/1907.10244)|[AdaCoF-pytorch](https://github.com/HyeongminLEE/AdaCoF-pytorch) ![Github stars](https://img.shields.io/github/stars/HyeongminLEE/AdaCoF-pytorch)
 |CVPR20|[FeatureFlow: Robust Video Interpolation via Structure-to-Texture Generation](https://openaccess.thecvf.com/content_CVPR_2020/papers/Gui_FeatureFlow_Robust_Video_Interpolation_via_Structure-to-Texture_Generation_CVPR_2020_paper.pdf)|[FeatureFlow](https://github.com/CM-BF/FeatureFlow) ![Github stars](https://img.shields.io/github/stars/CM-BF/FeatureFlow)
-|NIPS19|[Quadratic Video Interpolation](https://arxiv.org/abs/1911.00627)
-|CVPR19|[Depth-Aware Video Frame Interpolation](https://openaccess.thecvf.com/content_CVPR_2019/papers/Bao_Depth-Aware_Video_Frame_Interpolation_CVPR_2019_paper.pdf)|[DAIN](https://github.com/baowenbo/DAIN) ![Github stars](https://img.shields.io/github/stars/baowenbo/DAIN)
-|CVPR18|[Super SloMo: High Quality Estimation of Multiple Intermediate Frames for Video Interpolation](https://arxiv.org/abs/1712.00080)|[Super-SloMo](https://github.com/avinashpaliwal/Super-SloMo) ![Github stars](https://img.shields.io/github/stars/avinashpaliwal/Super-SloMo)
-|ICCV17|[Video Frame Synthesis using Deep Voxel Flow](https://arxiv.org/abs/1702.02463)|[voxel-flow](https://github.com/liuziwei7/voxel-flow) ![Github stars](https://img.shields.io/github/stars/liuziwei7/voxel-flow) | [pytorch-voxel-flow](https://github.com/lxx1991/pytorch-voxel-flow) ![Github stars](https://img.shields.io/github/stars/lxx1991/pytorch-voxel-flow)
-
-### Video Compression
-| Time | Paper | Repo |
-| -------- | -------- | -------- |
-|CVPR19|[DVC: An End-to-end Deep Video Compression Framework](https://arxiv.org/abs/1812.00101)|[PyTorchVideoCompression](https://github.com/ZhihaoHu/PyTorchVideoCompression) ![Github stars](https://img.shields.io/github/stars/ZhihaoHu/PyTorchVideoCompression)
 
 ### Video Inpainting
 | Time | Paper | Repo |
@@ -149,28 +105,10 @@ The table of contents is on the left side of the "README.md".
 |ECCV22|[Flow-Guided Transformer for Video Inpainting](https://arxiv.org/abs/2208.06768)|[FGT](https://github.com/hitachinsk/FGT) ![Github stars](https://img.shields.io/github/stars/hitachinsk/FGT)
 |CVPR22|[Inertia-Guided Flow Completion and Style Fusion for Video Inpainting](https://openaccess.thecvf.com/content/CVPR2022/papers/Zhang_Inertia-Guided_Flow_Completion_and_Style_Fusion_for_Video_Inpainting_CVPR_2022_paper.pdf)|[isvi](https://github.com/hitachinsk/isvi) ![Github stars](https://img.shields.io/github/stars/hitachinsk/isvi)
 
-
-### Video Action Recognition
-| Time | Paper | Repo |
-| -------- | -------- | -------- |
-|CVPR18|[Optical Flow Guided Feature: A Fast and Robust Motion Representation for Video Action Recognition](https://arxiv.org/abs/1711.11152)|[Optical-Flow-Guided-Feature](https://github.com/kevin-ssy/Optical-Flow-Guided-Feature) ![Github stars](https://img.shields.io/github/stars/kevin-ssy/Optical-Flow-Guided-Feature)
-|GCPR18|[On the Integration of Optical Flow and Action Recognition](https://arxiv.org/abs/1712.08416)
-
-### Video Object Segmentation
-| Time | Paper | Repo |
-| -------- | -------- | -------- |
-|ICCV17|[SegFlow: Joint Learning for Video Object Segmentation and Optical Flow](https://arxiv.org/abs/1709.06750)|[SegFlow](https://github.com/JingchunCheng/SegFlow) ![Github stars](https://img.shields.io/github/stars/JingchunCheng/SegFlow)
-
-### Object Tracking
-| Time | Paper | Repo |
-| -------- | -------- | -------- |
-|CVPR18|[End-to-end Flow Correlation Tracking with Spatial-temporal Attention](https://arxiv.org/abs/1711.01124)
-
 ### Video Stabilization
 | Time | Paper | Repo |
 | -------- | -------- | -------- |
 |CVPR20|[Learning Video Stabilization Using Optical Flow](https://cseweb.ucsd.edu/~ravir/jiyang_cvpr20.pdf)|[jiyang.fun](https://drive.google.com/file/d/1wQJYFd8TMbCRzhmFfDyBj7oHAGfyr1j6/view)
-|CVPR14|[Spatially Smooth Optical Flow for Video Stabilization](http://www.liushuaicheng.org/CVPR2014/SteadyFlow.pdf)
 
 ### Low Level Vision
 | Time | Paper | Repo |
@@ -185,3 +123,45 @@ The table of contents is on the left side of the "README.md".
 | -------- | -------- | -------- |
 |3DV21|[RAFT-Stereo: Multilevel Recurrent Field Transforms for Stereo Matching](https://arxiv.org/pdf/2109.07547.pdf)|[RAFT-Stereo](https://github.com/princeton-vl/RAFT-Stereo) ![Github stars](https://img.shields.io/github/stars/princeton-vl/RAFT-Stereo)
 |CVPR20|[VOLDOR: Visual Odometry From Log-Logistic Dense Optical Flow Residuals](https://openaccess.thecvf.com/content_CVPR_2020/html/Min_VOLDOR_Visual_Odometry_From_Log-Logistic_Dense_Optical_Flow_Residuals_CVPR_2020_paper.html)|[VOLDOR](https://github.com/htkseason/VOLDOR) ![Github stars](https://img.shields.io/github/stars/htkseason/VOLDOR)
+
+
+## Before 2020
+
+### Classical Estimation Methods
+| Time | Paper | Repo |
+| -------- | -------- | -------- |
+|IJCAI1981|[An iterative image registration technique with an application to stereo vision](http://citeseer.ist.psu.edu/viewdoc/download;jsessionid=C41563DCDDC44CB0E13D6D64D89FF3FD?doi=10.1.1.421.4619&rep=rep1&type=pdf)||
+|AI1981|[Determining optical flow](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.66.562&rep=rep1&type=pdf)|
+|TPAMI10|[Motion Detail Preserving Optical Flow Estimation](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.221.896&rep=rep1&type=pdf)
+|CVPR10|[Secrets of Optical Flow Estimation and Their Principles](https://users.soe.ucsc.edu/~pang/200/f18/papers/2018/05539939.pdf)
+|ICCV13|[DeepFlow: Large Displacement Optical Flow with Deep Matching](https://openaccess.thecvf.com/content_iccv_2013/papers/Weinzaepfel_DeepFlow_Large_Displacement_2013_ICCV_paper.pdf)|[Project](https://thoth.inrialpes.fr/src/deepflow/)
+|ECCV14|[Optical Flow Estimation with Channel Constancy](https://link.springer.com/content/pdf/10.1007/978-3-319-10590-1_28.pdf)
+|CVPR17|[S2F: Slow-To-Fast Interpolator Flow](https://openaccess.thecvf.com/content_cvpr_2017/papers/Yang_S2F_Slow-To-Fast_Interpolator_CVPR_2017_paper.pdf)
+
+### Others
+
+| Time | Paper | Repo |
+| -------- | -------- | -------- |
+|NeurIPS19|[Volumetric Correspondence Networks for Optical Flow](https://papers.nips.cc/paper/2019/hash/bbf94b34eb32268ada57a3be5062fe7d-Abstract.html)|[VCN](https://github.com/gengshan-y/VCN) ![Github stars](https://img.shields.io/github/stars/gengshan-y/VCN)
+|CVPR19|[Iterative Residual Refinement for Joint Optical Flow and Occlusion Estimation](https://arxiv.org/pdf/1904.05290.pdf)|[irr](https://github.com/visinf/irr) ![Github stars](https://img.shields.io/github/stars/visinf/irr)
+|CVPR18|[PWC-Net: CNNs for Optical Flow Using Pyramid, Warping, and Cost Volume](https://arxiv.org/abs/1709.02371)|[PWC-Net](https://github.com/NVlabs/PWC-Net) ![Github stars](https://img.shields.io/github/stars/NVlabs/PWC-Net) | [pytorch-pwc](https://github.com/sniklaus/pytorch-pwc) ![Github stars](https://img.shields.io/github/stars/sniklaus/pytorch-pwc) 
+|CVPR18|[LiteFlowNet: A Lightweight Convolutional Neural Network for Optical Flow Estimation](https://arxiv.org/abs/1805.07036)|[LiteFlowNet](https://github.com/twhui/LiteFlowNet) ![Github stars](https://img.shields.io/github/stars/twhui/LiteFlowNet) | [pytorch-liteflownet](https://github.com/sniklaus/pytorch-liteflownet) ![Github stars](https://img.shields.io/github/stars/sniklaus/pytorch-liteflownet)
+|CVPR17|[FlowNet 2.0: Evolution of Optical Flow Estimation with Deep Networks](https://arxiv.org/abs/1612.01925)|[flownet2-pytorch](https://github.com/NVIDIA/flownet2-pytorch) ![Github stars](https://img.shields.io/github/stars/NVIDIA/flownet2-pytorch) <br> [flownet2](https://github.com/lmb-freiburg/flownet2) ![Github stars](https://img.shields.io/github/stars/lmb-freiburg/flownet2) <br> [flownet2-tf](https://github.com/sampepose/flownet2-tf) ![Github stars](https://img.shields.io/github/stars/sampepose/flownet2-tf)
+|CVPR17|[Optical Flow Estimation using a Spatial Pyramid Network](https://arxiv.org/abs/1611.00850)|[spynet](https://github.com/anuragranj/spynet) ![Github stars](https://img.shields.io/github/stars/anuragranj/spynet) | [pytorch-spynet](https://github.com/sniklaus/pytorch-spynet) ![Github stars](https://img.shields.io/github/stars/sniklaus/pytorch-spynet)
+|ICCV15|[FlowNet: Learning Optical Flow with Convolutional Networks](https://arxiv.org/abs/1504.06852)|[FlowNetPytorch](https://github.com/ClementPinard/FlowNetPytorch) ![Github stars](https://img.shields.io/github/stars/ClementPinard/FlowNetPytorch)
+|AAAI19|[DDFlow: Learning Optical Flow with Unlabeled Data Distillation](https://arxiv.org/abs/1902.09145)|[DDFlow](https://github.com/ppliuboy/DDFlow) ![Github stars](https://img.shields.io/github/stars/ppliuboy/DDFlow)
+|CVPR19|[SelFlow: Self-Supervised Learning of Optical Flow](https://arxiv.org/abs/1904.09117)|[SelFlow](https://github.com/ppliuboy/SelFlow) ![Github stars](https://img.shields.io/github/stars/ppliuboy/SelFlow)
+|CVPR19|[Unsupervised Deep Epipolar Flow for Stationary or Dynamic Scenes](https://arxiv.org/abs/1904.03848)|[EPIFlow](https://github.com/yiranzhong/EPIflow) ![Github stars](https://img.shields.io/github/stars/yiranzhong/EPIflow)
+|CVPR18|[Unsupervised Learning of Dense Depth, Optical Flow and Camera Pose](https://arxiv.org/abs/1803.02276)|[GeoNet](https://github.com/yzcjtr/GeoNet) ![Github stars](https://img.shields.io/github/stars/yzcjtr/GeoNet)
+|ICCV19|[RainFlow: Optical Flow under Rain Streaks and Rain Veiling Effect](https://openaccess.thecvf.com/content_ICCV_2019/html/Li_RainFlow_Optical_Flow_Under_Rain_Streaks_and_Rain_Veiling_Effect_ICCV_2019_paper.html)
+|CVPR18|[Robust Optical Flow Estimation in Rainy Scenes](https://arxiv.org/abs/1704.05239)
+|NIPS19|[Quadratic Video Interpolation](https://arxiv.org/abs/1911.00627)
+|CVPR19|[Depth-Aware Video Frame Interpolation](https://openaccess.thecvf.com/content_CVPR_2019/papers/Bao_Depth-Aware_Video_Frame_Interpolation_CVPR_2019_paper.pdf)|[DAIN](https://github.com/baowenbo/DAIN) ![Github stars](https://img.shields.io/github/stars/baowenbo/DAIN)
+|CVPR18|[Super SloMo: High Quality Estimation of Multiple Intermediate Frames for Video Interpolation](https://arxiv.org/abs/1712.00080)|[Super-SloMo](https://github.com/avinashpaliwal/Super-SloMo) ![Github stars](https://img.shields.io/github/stars/avinashpaliwal/Super-SloMo)
+|ICCV17|[Video Frame Synthesis using Deep Voxel Flow](https://arxiv.org/abs/1702.02463)|[voxel-flow](https://github.com/liuziwei7/voxel-flow) ![Github stars](https://img.shields.io/github/stars/liuziwei7/voxel-flow) | [pytorch-voxel-flow](https://github.com/lxx1991/pytorch-voxel-flow) ![Github stars](https://img.shields.io/github/stars/lxx1991/pytorch-voxel-flow)
+|CVPR19|[DVC: An End-to-end Deep Video Compression Framework](https://arxiv.org/abs/1812.00101)|[PyTorchVideoCompression](https://github.com/ZhihaoHu/PyTorchVideoCompression) ![Github stars](https://img.shields.io/github/stars/ZhihaoHu/PyTorchVideoCompression)
+|ICCV17|[SegFlow: Joint Learning for Video Object Segmentation and Optical Flow](https://arxiv.org/abs/1709.06750)|[SegFlow](https://github.com/JingchunCheng/SegFlow) ![Github stars](https://img.shields.io/github/stars/JingchunCheng/SegFlow)
+|CVPR18|[End-to-end Flow Correlation Tracking with Spatial-temporal Attention](https://arxiv.org/abs/1711.01124)
+|CVPR18|[Optical Flow Guided Feature: A Fast and Robust Motion Representation for Video Action Recognition](https://arxiv.org/abs/1711.11152)|[Optical-Flow-Guided-Feature](https://github.com/kevin-ssy/Optical-Flow-Guided-Feature) ![Github stars](https://img.shields.io/github/stars/kevin-ssy/Optical-Flow-Guided-Feature)
+|GCPR18|[On the Integration of Optical Flow and Action Recognition](https://arxiv.org/abs/1712.08416)
+|CVPR14|[Spatially Smooth Optical Flow for Video Stabilization](http://www.liushuaicheng.org/CVPR2014/SteadyFlow.pdf)
