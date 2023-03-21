@@ -87,9 +87,10 @@ The table of contents is on the left side of the "README.md".
 |CVPR20|[Self-Supervised Monocular Scene Flow Estimation](https://arxiv.org/abs/2004.04143)|[self-mono-sf](https://github.com/visinf/self-mono-sf) ![Github stars](https://img.shields.io/github/stars/visinf/self-mono-sf)
 
 ## Applications
-### Video Frame Interpolation
+### Video Synthesis
 | Time | Paper | Repo |
-| -------- | -------- | -------- |
+| -------- | -------- | -------- 
+|CVPR23|[A Dynamic Multi-Scale Voxel Flow Network for Video Prediction](https://arxiv.org/abs/2303.09875)|[DMVFN](https://github.com/megvii-research/CVPR2023-DMVFN) ![Github stars](https://img.shields.io/github/stars/megvii-research/CVPR2023-DMVFN)
 |CVPR23|[Extracting Motion and Appearance via Inter-Frame Attention for Efficient Video Frame Interpolation](https://arxiv.org/abs/2303.00440)|[EMA-VFI](https://github.com/MCG-NJU/EMA-VFI) ![Github stars](https://img.shields.io/github/stars/MCG-NJU/EMA-VFI)
 |ECCV22|[Improving the Perceptual Quality of 2D Animation Interpolation](https://arxiv.org/abs/2011.06294)|[eisai](https://github.com/ShuhongChen/eisai-anime-interpolator) ![Github stars](https://img.shields.io/github/stars/ShuhongChen/eisai-anime-interpolator)
 |ECCV22|[Real-Time Intermediate Flow Estimation for Video Frame Interpolation](https://arxiv.org/abs/2011.06294)|[RIFE](https://github.com/hzwer/ECCV2022-RIFE) ![Github stars](https://img.shields.io/github/stars/hzwer/ECCV2022-RIFE)
