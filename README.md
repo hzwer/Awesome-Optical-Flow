@@ -76,6 +76,7 @@ The table of contents is on the left side of the "README.md".
 | Time | Paper | Repo |
 | -------- | -------- | -------- |
 |ArXiv23.03|[Learning Optical Flow from Event Camera with Rendered Dataset](https://arxiv.org/abs/2303.11011)
+|ECCV22|[Secrets of Event-Based Optical Flow](https://arxiv.org/abs/2207.10022)|[event_based_optical_flow](https://github.com/tub-rip/event_based_optical_flow) ![Github stars](https://img.shields.io/github/stars/tub-rip/event_based_optical_flow)
 |ICCV21|[GyroFlow: Gyroscope-Guided Unsupervised Optical Flow Learning](https://arxiv.org/abs/2103.13725)|[GyroFlow](https://github.com/megvii-research/GyroFlow) ![Github stars](https://img.shields.io/github/stars/megvii-research/GyroFlow)
 
 ## Scene Flow
