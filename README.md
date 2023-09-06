@@ -8,6 +8,7 @@ The table of contents is on the left side of the "README.md".
 ### Supervised Models
 | Time | Paper | Repo |
 | -------- | -------- | -------- |
+|CVPR23|[Masked Cost Volume Autoencoding for Pretraining Optical Flow Estimation](https://openaccess.thecvf.com/content/CVPR2023/html/Shi_FlowFormer_Masked_Cost_Volume_Autoencoding_for_Pretraining_Optical_Flow_Estimation_CVPR_2023_paper.html)|[FlowFormerPlusPlus](https://github.com/XiaoyuShi97/FlowFormerPlusPlus) ![Github stars](https://img.shields.io/github/stars/XiaoyuShi97/FlowFormerPlusPlus)|
 |NeurIPS22|[SKFlow: Learning Optical Flow with Super Kernels](https://openreview.net/forum?id=v2es9YoukWO)|[SKFlow](https://github.com/littlespray/SKFlow) ![Github stars](https://img.shields.io/github/stars/littlespray/SKFlow)|
 |ECCV22|[Disentangling architecture and training for optical flow](https://arxiv.org/abs/2203.10712)|[Autoflow](https://github.com/google-research/opticalflow-autoflow) ![Github stars](https://img.shields.io/github/stars/google-research/opticalflow-autoflow)|
 |ECCV22|[FlowFormer: A Transformer Architecture for Optical Flow](https://arxiv.org/pdf/2203.16194.pdf)|[FlowFormer](https://github.com/drinkingcoder/FlowFormer-Official/) ![Github stars](https://img.shields.io/github/stars/drinkingcoder/FlowFormer-Official)|
@@ -95,6 +96,7 @@ The table of contents is on the left side of the "README.md".
 | -------- | -------- | -------- 
 |CVPR23|[A Dynamic Multi-Scale Voxel Flow Network for Video Prediction](https://arxiv.org/abs/2303.09875)|[DMVFN](https://github.com/megvii-research/CVPR2023-DMVFN) ![Github stars](https://img.shields.io/github/stars/megvii-research/CVPR2023-DMVFN)
 |CVPR23|[Extracting Motion and Appearance via Inter-Frame Attention for Efficient Video Frame Interpolation](https://arxiv.org/abs/2303.00440)|[EMA-VFI](https://github.com/MCG-NJU/EMA-VFI) ![Github stars](https://img.shields.io/github/stars/MCG-NJU/EMA-VFI)
+|ACMMM22|[Neighbor correspondence matching for flow-based video frame synthesis](https://arxiv.org/abs/2207.06763)|
 |ECCV22|[Improving the Perceptual Quality of 2D Animation Interpolation](https://arxiv.org/abs/2011.06294)|[eisai](https://github.com/ShuhongChen/eisai-anime-interpolator) ![Github stars](https://img.shields.io/github/stars/ShuhongChen/eisai-anime-interpolator)
 |ECCV22|[Real-Time Intermediate Flow Estimation for Video Frame Interpolation](https://arxiv.org/abs/2011.06294)|[RIFE](https://github.com/hzwer/ECCV2022-RIFE) ![Github stars](https://img.shields.io/github/stars/hzwer/ECCV2022-RIFE)
 |CVPR22|[VideoINR: Learning Video Implicit Neural Representation for Continuous Space-Time Super-Resolution](https://arxiv.org/pdf/2206.04647.pdf)|[VideoINR](https://github.com/Picsart-AI-Research/VideoINR-Continuous-Space-Time-Super-Resolution) ![Github stars](https://img.shields.io/github/stars/Picsart-AI-Research/VideoINR-Continuous-Space-Time-Super-Resolution)
