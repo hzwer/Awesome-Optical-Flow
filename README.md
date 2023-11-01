@@ -27,8 +27,8 @@ The table of contents is on the left side of the "README.md".
 ### Multi-Frame Supervised Models
 | Time | Paper | Repo |
 | -------- | -------- | -------- |
-|arXiv23.06|[Tracking Everything Everywhere All at Once](https://arxiv.org/abs/2306.05422)
-|ICCV23|[AccFlow: Backward Accumulation for Long-Range Optical Flow](https://arxiv.org/pdf/2308.13133.pdf)
+|ICCV23|[Tracking Everything Everywhere All at Once](https://arxiv.org/abs/2306.05422)|[omnimotion](https://github.com/qianqianwang68/omnimotion) ![Github stars](https://img.shields.io/github/stars/qianqianwang68/omnimotion)|
+|ICCV23|[AccFlow: Backward Accumulation for Long-Range Optical Flow](https://arxiv.org/pdf/2308.13133.pdf)|[AccFlow](https://github.com/mulns/AccFlow) ![Github stars](https://img.shields.io/github/stars/mulns/AccFlow)|
 |ICCV23|[VideoFlow: Exploiting Temporal Cues for Multi-frame Optical Flow Estimation](https://arxiv.org/abs/2303.08340)|[VideoFlow](https://github.com/XiaoyuShi97/VideoFlow) ![Github stars](https://img.shields.io/github/stars/XiaoyuShi97/VideoFlow)|
 |ECCV22|[Particle Video Revisited: Tracking Through Occlusions Using Point Trajectories](https://arxiv.org/abs/2204.04153)|[PIPs](https://github.com/aharley/pips) ![Github stars](https://img.shields.io/github/stars/aharley/pips)|
 
@@ -95,6 +95,7 @@ The table of contents is on the left side of the "README.md".
 ### Video Synthesis
 | Time | Paper | Repo |
 | -------- | -------- | -------- 
+|WACV24|[Scale-Adaptive Feature Aggregation for Efficient Space-Time Video Super-Resolution](https://arxiv.org/abs/2310.17294)|[SAFA](https://github.com/megvii-research/WACV2024-SAFA) ![Github stars](https://img.shields.io/github/stars/megvii-research/WACV2024-SAFA)
 |CVPR23|[A Dynamic Multi-Scale Voxel Flow Network for Video Prediction](https://arxiv.org/abs/2303.09875)|[DMVFN](https://github.com/megvii-research/CVPR2023-DMVFN) ![Github stars](https://img.shields.io/github/stars/megvii-research/CVPR2023-DMVFN)
 |CVPR23|[Extracting Motion and Appearance via Inter-Frame Attention for Efficient Video Frame Interpolation](https://arxiv.org/abs/2303.00440)|[EMA-VFI](https://github.com/MCG-NJU/EMA-VFI) ![Github stars](https://img.shields.io/github/stars/MCG-NJU/EMA-VFI)
 |ACMMM22|[Neighbor correspondence matching for flow-based video frame synthesis](https://arxiv.org/abs/2207.06763)|
