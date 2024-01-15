@@ -8,6 +8,7 @@ The table of contents is on the left side of the "README.md".
 ### Supervised Models
 | Time | Paper | Repo |
 | -------- | -------- | -------- |
+|CVPR23|[DistractFlow: Improving Optical Flow Estimation via Realistic Distractions and Pseudo-Labeling](https://arxiv.org/abs/2303.14078)
 |CVPR23|[Masked Cost Volume Autoencoding for Pretraining Optical Flow Estimation](https://openaccess.thecvf.com/content/CVPR2023/html/Shi_FlowFormer_Masked_Cost_Volume_Autoencoding_for_Pretraining_Optical_Flow_Estimation_CVPR_2023_paper.html)|[FlowFormerPlusPlus](https://github.com/XiaoyuShi97/FlowFormerPlusPlus) ![Github stars](https://img.shields.io/github/stars/XiaoyuShi97/FlowFormerPlusPlus)|
 |NeurIPS22|[SKFlow: Learning Optical Flow with Super Kernels](https://openreview.net/forum?id=v2es9YoukWO)|[SKFlow](https://github.com/littlespray/SKFlow) ![Github stars](https://img.shields.io/github/stars/littlespray/SKFlow)|
 |ECCV22|[Disentangling architecture and training for optical flow](https://arxiv.org/abs/2203.10712)|[Autoflow](https://github.com/google-research/opticalflow-autoflow) ![Github stars](https://img.shields.io/github/stars/google-research/opticalflow-autoflow)|
@@ -67,6 +68,7 @@ The table of contents is on the left side of the "README.md".
 ### Special Scene
 | Time | Paper | Repo |
 | -------- | -------- | -------- |
+|CVPR23|[Unsupervised Cumulative Domain Adaptation for Foggy Scene Optical Flow](https://arxiv.org/abs/2303.07564) |[UCDA-Flow](https://github.com/hyzhouboy/UCDA-Flow) ![Github stars](https://img.shields.io/github/stars/hyzhouboy/UCDA-Flow)
 |ECCV22|[Deep 360∘ Optical Flow Estimation Based on Multi-Projection Fusion](https://arxiv.org/abs/2208.00776)
 |AAAI21|[Optical flow estimation from a single motion-blurred image](https://www.aaai.org/AAAI21Papers/AAAI-3339.ArgawD.pdf)|
 |CVPR20|[Optical Flow in Dense Foggy Scenes using Semi-Supervised Learning](https://arxiv.org/abs/2004.01905)
