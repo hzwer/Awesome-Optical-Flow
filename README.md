@@ -28,6 +28,7 @@ The table of contents is on the left side of the "README.md".
 ### Multi-Frame Supervised Models
 | Time | Paper | Repo |
 | -------- | -------- | -------- |
+|CVPR24|[Dense Optical Tracking: Connecting the Dots](https://arxiv.org/abs/2312.00786)|[dot](https://github.com/16lemoing/dot) ![Github stars](https://img.shields.io/github/stars/16lemoing/dot)|
 |ICCV23|[Tracking Everything Everywhere All at Once](https://arxiv.org/abs/2306.05422)|[omnimotion](https://github.com/qianqianwang68/omnimotion) ![Github stars](https://img.shields.io/github/stars/qianqianwang68/omnimotion)|
 |ICCV23|[AccFlow: Backward Accumulation for Long-Range Optical Flow](https://arxiv.org/pdf/2308.13133.pdf)|[AccFlow](https://github.com/mulns/AccFlow) ![Github stars](https://img.shields.io/github/stars/mulns/AccFlow)|
 |ICCV23|[VideoFlow: Exploiting Temporal Cues for Multi-frame Optical Flow Estimation](https://arxiv.org/abs/2303.08340)|[VideoFlow](https://github.com/XiaoyuShi97/VideoFlow) ![Github stars](https://img.shields.io/github/stars/XiaoyuShi97/VideoFlow)|
