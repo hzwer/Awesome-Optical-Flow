@@ -98,6 +98,7 @@ The table of contents is on the left side of the "README.md".
 ### Video Synthesis
 | Time | Paper | Repo |
 | -------- | -------- | -------- 
+|CVPR24|[FlowVid: Taming Imperfect Optical Flows for Consistent Video-to-Video Synthesis](https://arxiv.org/pdf/2312.17681.pdf)
 |WACV24|[Scale-Adaptive Feature Aggregation for Efficient Space-Time Video Super-Resolution](https://arxiv.org/abs/2310.17294)|[SAFA](https://github.com/megvii-research/WACV2024-SAFA) ![Github stars](https://img.shields.io/github/stars/megvii-research/WACV2024-SAFA)
 |CVPR23|[A Dynamic Multi-Scale Voxel Flow Network for Video Prediction](https://arxiv.org/abs/2303.09875)|[DMVFN](https://github.com/megvii-research/CVPR2023-DMVFN) ![Github stars](https://img.shields.io/github/stars/megvii-research/CVPR2023-DMVFN)
 |CVPR23|[Extracting Motion and Appearance via Inter-Frame Attention for Efficient Video Frame Interpolation](https://arxiv.org/abs/2303.00440)|[EMA-VFI](https://github.com/MCG-NJU/EMA-VFI) ![Github stars](https://img.shields.io/github/stars/MCG-NJU/EMA-VFI)
