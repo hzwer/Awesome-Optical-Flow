@@ -8,6 +8,7 @@ The table of contents is on the left side of the "README.md".
 ### Supervised Models
 | Time | Paper | Repo |
 | -------- | -------- | -------- |
+|CVPR24|[MemFlow: Optical Flow Estimation and Prediction with Memory](https://dqiaole.github.io/MemFlow/)|[MemFlow](https://github.com/DQiaole/MemFlow) ![Github stars](https://img.shields.io/github/stars/DQiaole/MemFlow)|
 |CVPR23|[DistractFlow: Improving Optical Flow Estimation via Realistic Distractions and Pseudo-Labeling](https://arxiv.org/abs/2303.14078)
 |CVPR23|[Masked Cost Volume Autoencoding for Pretraining Optical Flow Estimation](https://openaccess.thecvf.com/content/CVPR2023/html/Shi_FlowFormer_Masked_Cost_Volume_Autoencoding_for_Pretraining_Optical_Flow_Estimation_CVPR_2023_paper.html)|[FlowFormerPlusPlus](https://github.com/XiaoyuShi97/FlowFormerPlusPlus) ![Github stars](https://img.shields.io/github/stars/XiaoyuShi97/FlowFormerPlusPlus)|
 |NeurIPS22|[SKFlow: Learning Optical Flow with Super Kernels](https://openreview.net/forum?id=v2es9YoukWO)|[SKFlow](https://github.com/littlespray/SKFlow) ![Github stars](https://img.shields.io/github/stars/littlespray/SKFlow)|
