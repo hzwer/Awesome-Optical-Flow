@@ -100,6 +100,7 @@ The table of contents is on the left side of the "README.md".
 | Time | Paper | Repo |
 | -------- | -------- | -------- 
 |arXiv23.11|[MoVideo: Motion-Aware Video Generation with Diffusion Models](https://arxiv.org/abs/2311.11325)
+|CVPR23|[Conditional Image-to-Video Generation with Latent Flow Diffusion Models](https://openaccess.thecvf.com/content/CVPR2023/papers/Ni_Conditional_Image-to-Video_Generation_With_Latent_Flow_Diffusion_Models_CVPR_2023_paper.pdf)|[LFDM](https://github.com/nihaomiao/CVPR23_LFDM) ![Github stars](https://img.shields.io/github/stars/nihaomiao/CVPR23_LFDM)
 
 ### Video Synthesis
 | Time | Paper | Repo |
