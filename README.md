@@ -99,6 +99,7 @@ The table of contents is on the left side of the "README.md".
 ### Video Synthesis/Generation
 | Time | Paper | Repo |
 | -------- | -------- | -------- 
+|ECCV24|[Clearer Frames, Anytime: Resolving Velocity Ambiguity in Video Frame Interpolation](https://jianwang-cmu.github.io/23VFI/04908.pdf)|[InterpAny-Clearer](https://github.com/zzh-tech/InterpAny-Clearer) ![Github stars](https://img.shields.io/github/stars/zzh-tech/InterpAny-Clearer)
 |arXiv23.11|[MoVideo: Motion-Aware Video Generation with Diffusion Models](https://arxiv.org/abs/2311.11325)
 |CVPR24|[FlowVid: Taming Imperfect Optical Flows for Consistent Video-to-Video Synthesis](https://arxiv.org/pdf/2312.17681.pdf)
 |WACV24|[Scale-Adaptive Feature Aggregation for Efficient Space-Time Video Super-Resolution](https://arxiv.org/abs/2310.17294)|[SAFA](https://github.com/megvii-research/WACV2024-SAFA) ![Github stars](https://img.shields.io/github/stars/megvii-research/WACV2024-SAFA)
