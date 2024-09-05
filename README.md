@@ -29,6 +29,8 @@ The table of contents is on the left side of the "README.md".
 ### Multi-Frame Supervised Models
 | Time | Paper | Repo |
 | -------- | -------- | -------- |
+|ECCV24|[Local All-Pair Correspondence for Point Tracking](https://arxiv.org/abs/2407.15420)
+|CVPR24|[FlowTrack: Revisiting Optical Flow for Long-Range Dense Tracking](https://openaccess.thecvf.com/content/CVPR2024/html/Cho_FlowTrack_Revisiting_Optical_Flow_for_Long-Range_Dense_Tracking_CVPR_2024_paper.html)
 |CVPR24|[Dense Optical Tracking: Connecting the Dots](https://arxiv.org/abs/2312.00786)|[dot](https://github.com/16lemoing/dot) ![Github stars](https://img.shields.io/github/stars/16lemoing/dot)|
 |ICCV23|[Tracking Everything Everywhere All at Once](https://arxiv.org/abs/2306.05422)|[omnimotion](https://github.com/qianqianwang68/omnimotion) ![Github stars](https://img.shields.io/github/stars/qianqianwang68/omnimotion)|
 |ICCV23|[AccFlow: Backward Accumulation for Long-Range Optical Flow](https://arxiv.org/pdf/2308.13133.pdf)|[AccFlow](https://github.com/mulns/AccFlow) ![Github stars](https://img.shields.io/github/stars/mulns/AccFlow)|
