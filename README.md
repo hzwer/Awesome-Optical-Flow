@@ -1,7 +1,10 @@
 # Awesome-Optical-Flow
 This is a list of awesome articles about optical flow and related work. [Click here to read in full screen.](https://github.com/hzwer/Awesome-Optical-Flow/blob/main/README.md)
 
-The table of contents is on the left side of the "README.md".
+The table of contents is on the right side of the "README.md".
+
+Recently, I write a survey named "[A Survey on Future Frame Synthesis: Bridging Deterministic and Generative Approaches](https://arxiv.org/pdf/2401.14718
+)", welcome to read.
 
 ## Optical Flow
 
