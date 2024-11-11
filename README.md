@@ -3,7 +3,7 @@ This is a list of awesome articles about optical flow and related work. [Click h
 
 The table of contents is on the right side of the "README.md".
 
-Recently, I write a survey named [A Survey on Future Frame Synthesis: Bridging Deterministic and Generative Approaches](https://arxiv.org/pdf/2401.14718
+Recently, I write [A Survey on Future Frame Synthesis: Bridging Deterministic and Generative Approaches](https://arxiv.org/pdf/2401.14718
 ), welcome to read.
 
 ## Optical Flow
